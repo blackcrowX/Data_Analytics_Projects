@@ -6,8 +6,8 @@
 
 These are projects using Microsoft Excel to gain showcases skills gained while learning data analysis.
 
-## Sales Dashboard South America 2022
-**File:** [`Insurance-Claims.xlsx`](https://github.com/blackcrowX/Data-Analysis-Portfolio/blob/main/Project-I/Insurance-Claims.xlsx)
+## Sales Dashboard South
+**File:** [`Sales Dashboard South America 2022.xlsx`](https://github.com/blackcrowX/Data-Analysis-Portfolio/blob/main/Project-I/Insurance-Claims.xlsx)
 
-## Customersucess Dashboard Northern Germany 2022
-**File:** [`Insurance-Claims.xlsx`](https://github.com/blackcrowX/Data-Analysis-Portfolio/blob/main/Project-I/Insurance-Claims.xlsx)
+## Customersucess Dashboard
+**File:** [`Customersucess Dashboard Northern Germany 2022.xlsx`](https://github.com/blackcrowX/Data-Analysis-Portfolio/blob/main/Project-I/Insurance-Claims.xlsx)
