@@ -18,4 +18,7 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 
 ## Python
 
+### Exploratory Analysis Pokemon Generation 1-8
+**File:** [`analysis_pokemon_gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Portfolio/blob/main/Python/analysis_pokemon_gen_1-8.ipynb)
+
 ## R
