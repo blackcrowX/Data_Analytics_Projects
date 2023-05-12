@@ -1,5 +1,9 @@
 <h1 align="center">Datasets</h1>
 
+<p align="center">
+  <img width="273px" src="https://raw.githubusercontent.com/blackcrowX/blackcrowX.github.io/main/images/icons/dataset.png"/>
+</p>
+
 ## Bank Customer Churn Records
 
 **Data:** [`bank-customer-churn-records.csv`](https://github.com/blackcrowX/Data-Analysis-Projects/blob/main/Datasets/bank-customer-churn-records.csv)
