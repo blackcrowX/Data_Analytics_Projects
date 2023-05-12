@@ -4,7 +4,7 @@
   <img width="273px" src="https://raw.githubusercontent.com/blackcrowX/blackcrowX.github.io/main/images/icons/ms-excel.png"/>
 </p>
 
-These are projects using Microsoft Excel to gain showcases skills gained while learning data analysis.
+These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
 
 ## Sales Dashboard South America
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
