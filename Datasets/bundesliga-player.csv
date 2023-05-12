@@ -1,0 +1,516 @@
+,name,full_name,age,height,nationality,place_of_birth,price,max_price,position,shirt_nr,foot,club,contract_expires,joined_club,player_agent,outfitter
+0,Manuel Neuer,Manuel Peter Neuer,37,1.93,Germany,Gelsenkirchen,7.0,45.0,Goalkeeper,1,right,Bayern Munich,2024-06-30,2011-07-01,PRO Profil GmbH,adidas
+1,Yann Sommer,,34,1.83,Switzerland,Morges,5.0,13.0,Goalkeeper,27,right,Bayern Munich,2025-06-30,2023-01-19,Relatives,Puma
+2,Sven Ulreich,,34,1.92,Germany,Schorndorf,0.9,6.0,Goalkeeper,26,right,Bayern Munich,2024-06-30,2021-07-01,BMS Sportconsulting ...,adidas
+3,Johannes Schenk,,20,1.91,Germany,Schweinfurt,0.3,0.3,Goalkeeper,35,,Bayern Munich,2024-06-30,2022-07-01,11WINS,
+4,Matthijs de Ligt,,23,1.89,Netherlands,Leiderdorp,75.0,75.0,Defender - Centre-Back,4,right,Bayern Munich,2027-06-30,2022-07-19,Rafaela Pimenta,adidas
+5,Dayot Upamecano,Dayotchanculle Oswald Upamecano,24,1.86,France  Guinea-Bissau,Évreux,60.0,60.0,Defender - Centre-Back,2,right,Bayern Munich,2026-06-30,2021-07-05,Unique Sports Group,Nike
+6,Lucas Hernández,Lucas François Bernard Hernández Pi,27,1.84,France  Spain,Marseille,50.0,70.0,Defender - Centre-Back,21,left,Bayern Munich,2024-06-30,2019-07-01,Manuel García ...,Nike
+7,Alphonso Davies,Alphonso Boyle Davies,22,1.85,Canada  Liberia,Buduburam,70.0,80.0,Defender - Left-Back,19,left,Bayern Munich,2025-06-30,2019-01-01,ATG Sports,
+8,Daley Blind,,33,1.8,Netherlands,Amsterdam,6.0,25.0,Defender - Left-Back,23,left,Bayern Munich,2023-06-30,2023-01-05,SEG,adidas
+9,João Cancelo,João Pedro Cavaco Cancelo,28,1.82,Portugal,Barreiro,60.0,70.0,Defender - Right-Back,22,right,Bayern Munich,2023-06-30,2023-01-31,Gestifute,Nike
+10,Benjamin Pavard,,27,1.86,France,Maubeuge,35.0,45.0,Defender - Right-Back,5,right,Bayern Munich,2024-06-30,2019-07-01,Carmenta,adidas
+11,Noussair Mazraoui,نصير مزراوي,25,1.83,Morocco  Netherlands,Leiderdorp,28.0,28.0,Defender - Right-Back,40,right,Bayern Munich,2026-06-30,2022-07-01,Rafaela Pimenta,adidas
+12,Josip Stanisic,Josip Stanišić,23,1.87,Croatia  Germany,München,12.0,12.0,Defender - Right-Back,44,both,Bayern Munich,2026-06-30,2021-08-01,BALLWERK Sports GmbH,adidas
+13,Bouna Sarr,,31,1.77,Senegal  France,Lyon,2.5,9.0,Defender - Right-Back,20,right,Bayern Munich,2024-06-30,2020-10-05,Wasserman,
+14,Joshua Kimmich,Joshua Walter Kimmich,28,1.77,Germany,Rottweil,80.0,90.0,midfield - Defensive Midfield,6,right,Bayern Munich,2025-06-30,2015-07-02,,
+15,Leon Goretzka,Leon Christoph Goretzka,28,1.89,Germany,Bochum,65.0,70.0,midfield - Central Midfield,8,right,Bayern Munich,2026-06-30,2018-07-01,Neubauer 13 GmbH,
+16,Ryan Gravenberch,Ryan Jiro Gravenberch,20,1.9,Netherlands  Suriname,Amsterdam,30.0,35.0,midfield - Central Midfield,38,right,Bayern Munich,2027-06-30,2022-07-01,Team Raiola,adidas
+17,Jamal Musiala,,20,1.84,Germany  England,Stuttgart,110.0,110.0,midfield - Attacking Midfield,42,right,Bayern Munich,2026-06-30,2020-07-01,11WINS,
+18,Paul Wanner,,17,1.85,Germany  Austria,Dornbirn,3.0,3.0,midfield - Attacking Midfield,14,left,Bayern Munich,2027-06-30,2022-01-31,Agent is known - Player under 18,adidas
+19,Arijon Ibrahimovic,Arijon Ibrahimović / Arijon Ibrahimi,17,1.76,Germany  Kosovo,Nürnberg,1.0,1.0,midfield - Attacking Midfield,46,right,Bayern Munich,2025-06-30,2023-01-17,Agent is known - Player under 18,
+20,Kingsley Coman,Kingsley Junior Coman,26,1.81,France  Guadeloupe,Paris,65.0,65.0,Attack - Left Winger,11,right,Bayern Munich,2027-06-30,2017-07-01,CAA Base Ltd,Nike
+21,Sadio Mané,,31,1.74,Senegal,Bambaly,45.0,150.0,Attack - Left Winger,17,right,Bayern Munich,2025-06-30,2022-07-01,ROOF,New Balance
+22,Leroy Sané,Leroy Aziz Sané,27,1.83,Germany  France,Essen,70.0,100.0,Attack - Right Winger,10,left,Bayern Munich,2025-06-30,2020-07-15,LIAN Sports Group,Nike
+23,Serge Gnabry,Serge David Gnabry,27,1.76,Germany  Cote d'Ivoire,Stuttgart,55.0,90.0,Attack - Right Winger,7,right,Bayern Munich,2026-06-30,2017-07-01,ROOF,adidas
+24,Thomas Müller,,33,1.85,Germany,Weilheim in Oberbayern,18.0,75.0,Attack - Second Striker,25,right,Bayern Munich,2024-06-30,2009-07-01,Kögl & Partner GmbH,adidas
+25,Mathys Tel,,18,1.83,France  Guadeloupe,Sarcelles,20.0,20.0,Attack - Centre-Forward,39,right,Bayern Munich,2025-06-30,2022-07-26,,
+26,Eric Maxim Choupo-Moting,Eric Maxim Choupo-Moting,34,1.91,Cameroon  Germany,Hamburg,6.0,10.0,Attack - Centre-Forward,13,right,Bayern Munich,2024-06-30,2020-10-05,ROGON,Puma
+27,Gregor Kobel,,25,1.94,Switzerland,Zürich,35.0,35.0,Goalkeeper,1,right,Bor. Dortmund,2026-06-30,2021-07-01,SBE Management AG,
+28,Marcel Lotka,Marcel Laurenz Lotka,21,1.9,Germany  Poland,Duisburg,1.3,1.3,Goalkeeper,35,right,Bor. Dortmund,2025-06-30,2022-07-01,SEG,
+29,Alexander Meyer,Alexander Niklas Meyer-Schade,32,1.95,Germany,Bad Oldesloe,1.0,1.0,Goalkeeper,33,right,Bor. Dortmund,2024-06-30,2022-07-01,AKA Global GmbH,
+30,Luca Unbehaun,,22,1.85,Germany,Bochum,1.0,1.5,Goalkeeper,38,right,Bor. Dortmund,2023-06-30,2019-07-01,SWSports,
+31,Nico Schlotterbeck,Nico Cedric Schlotterbeck,23,1.91,Germany,Waiblingen,40.0,40.0,Defender - Centre-Back,4,left,Bor. Dortmund,2027-06-30,2022-07-01,Robert Schneider,
+32,Niklas Süle,,27,1.95,Germany,Frankfurt am Main,35.0,60.0,Defender - Centre-Back,25,right,Bor. Dortmund,2026-06-30,2022-07-01,Sports360 GmbH,Nike
+33,Mats Hummels,Mats Julian Hummels,34,1.91,Germany,Bergisch Gladbach,6.5,60.0,Defender - Centre-Back,15,right,Bor. Dortmund,2023-06-30,2019-07-01,HMH Sportmanagement,adidas
+34,Soumaïla Coulibaly,,19,1.9,France  Mali,Montfermeil,1.0,1.0,Defender - Centre-Back,44,left,Bor. Dortmund,2026-06-30,2021-07-01,Epic Sports,Puma
+35,Antonios Papadopoulos,Αντώνης Παπαδόπουλος,23,1.86,Germany  Greece,Stuttgart,0.6,0.6,Defender - Centre-Back,18,right,B. Dortmund II,2024-06-30,2021-07-01,CAA Stellar,
+36,Raphaël Guerreiro,Raphaël Adelino José Guerreiro,29,1.7,Portugal  France,Le Blanc-Mesnil,20.0,40.0,Defender - Left-Back,13,left,Bor. Dortmund,2023-06-30,2016-07-01,Wasserman,adidas
+37,Tom Rothe,Tom Alexander Rothe,18,1.93,Germany,Rendsburg,3.5,3.5,Defender - Left-Back,36,left,Bor. Dortmund,2024-06-30,2022-07-01,Wasserman,
+38,Nico Schulz,,30,1.8,Germany,Berlin,2.0,25.0,Defender - Left-Back,14,left,Bor. Dortmund,2024-06-30,2019-07-01,ROGON,
+39,Julian Ryerson,,25,1.83,Norway,Lyngdal,10.0,10.0,Defender - Right-Back,26,right,Bor. Dortmund,2026-06-30,2023-01-17,CAA Base Ltd,
+40,Marius Wolf,,27,1.87,Germany,Coburg,9.0,10.0,Defender - Right-Back,17,right,Bor. Dortmund,2024-06-30,2018-07-02,ROGON,
+41,Thomas Meunier,,31,1.91,Belgium,Sainte-Ode,6.5,35.0,Defender - Right-Back,24,right,Bor. Dortmund,2024-06-30,2020-07-01,Thomas Meunier,adidas
+42,Mateu Morey Bauzà,Mateu Jaume Morey Bauzà,23,1.73,Spain,Palma de Mallorca,1.5,7.0,Defender - Right-Back,2,right,Bor. Dortmund,2024-06-30,2019-07-01,,
+43,Felix Passlack,,24,1.7,Germany,Bottrop,1.5,3.0,Defender - Right-Back,30,right,Bor. Dortmund,2023-06-30,2016-01-04,Teamgeist ...,Nike
+44,Salih Özcan,,25,1.83,Turkey  Germany,Köln,17.0,17.0,midfield - Defensive Midfield,6,right,Bor. Dortmund,2026-06-30,2022-07-01,Dirk Hebel,
+45,Emre Can,,29,1.86,Germany  Turkey,Frankfurt am Main,14.0,40.0,midfield - Defensive Midfield,23,right,Bor. Dortmund,2024-06-30,2020-07-01,ISM Int. Soccer ...,
+46,Abdoulaye Kamara,,18,1.83,France  Guinea,Conakry,1.0,1.0,midfield - Defensive Midfield,32,right,B. Dortmund II,2024-06-30,2021-07-20,,
+47,Jude Bellingham,Jude Victor William Bellingham,19,1.86,England,Stourbridge,120.0,120.0,midfield - Central Midfield,22,right,Bor. Dortmund,2025-06-30,2020-07-23,,adidas
+48,Mahmoud Dahoud,,27,1.78,Germany  Syria,Amûdê‎,12.0,18.0,midfield - Central Midfield,8,right,Bor. Dortmund,2023-06-30,2017-07-01,Lorimanagement,Puma
+49,Julian Brandt,,27,1.85,Germany,Bremen,40.0,50.0,midfield - Attacking Midfield,19,right,Bor. Dortmund,2026-06-30,2019-07-01,Relatives,Nike
+50,Giovanni Reyna,Giovanni Alejandro Reyna,20,1.85,United States  Portugal,Durham,28.0,42.0,midfield - Attacking Midfield,7,right,Bor. Dortmund,2025-06-30,2020-01-12,Wasserman,adidas
+51,Marco Reus,,33,1.8,Germany,Dortmund,9.0,50.0,midfield - Attacking Midfield,11,right,Bor. Dortmund,2024-06-30,2012-07-01,Dirk Hebel,Puma
+52,Göktan Gürpüz,,20,1.76,Turkey  Germany,Duisburg,0.3,0.3,midfield - Attacking Midfield,42,right,B. Dortmund II,2025-06-30,2022-07-01,SBE Management AG,
+53,Karim Adeyemi,Karim-David Adeyemi,21,1.8,Germany  Nigeria,München,35.0,35.0,Attack - Left Winger,27,left,Bor. Dortmund,2027-06-30,2022-07-01,Kick&Run,Nike
+54,Jamie Bynoe-Gittens,Jamie Jermaine Bynoe-Gittens,18,1.77,England  Barbados,London,14.0,14.0,Attack - Left Winger,43,right,Bor. Dortmund,2025-06-30,2022-07-01,Elite Project Group ...,
+55,Donyell Malen,,24,1.78,Netherlands  Suriname,Wieringen,16.0,30.0,Attack - Right Winger,21,right,Bor. Dortmund,2026-06-30,2021-07-27,Rafaela Pimenta,Nike
+56,Julien Duranville,,17,1.7,Belgium,Uccle,5.0,5.0,Attack - Right Winger,16,right,Bor. Dortmund,,2023-01-27,Agent is known - Player under 18,
+57,Sébastien Haller,Sébastien Romain Teddy Haller,28,1.91,Cote d'Ivoire  France,Ris-Orangis,30.0,45.0,Attack - Centre-Forward,9,right,Bor. Dortmund,2026-06-30,2022-07-06,management 360,Puma
+58,Youssoufa Moukoko,,18,1.79,Germany  Cameroon,Yaoundé,30.0,30.0,Attack - Centre-Forward,18,left,Bor. Dortmund,2026-06-30,2020-07-29,Wasserman,Nike
+59,Anthony Modeste,Anthony Mbu Agogo Modeste,35,1.88,France  Martinique,Cannes,1.0,20.0,Attack - Centre-Forward,20,right,Bor. Dortmund,2023-06-30,2022-08-08,Wasserman,
+60,Péter Gulácsi,,33,1.9,Hungary,Budapest,6.0,13.0,Goalkeeper,1,right,RB Leipzig,2025-06-30,2015-07-01,HCM Sports ...,
+61,Janis Blaswich,Janis Jonathan Blaswich,32,1.93,Germany,Willich,2.0,2.0,Goalkeeper,21,right,RB Leipzig,2025-06-30,2022-07-01,PRO Profil GmbH,adidas
+62,Örjan Nyland,Ørjan Håskjold Nyland,32,1.92,Norway,Volda,0.6,3.0,Goalkeeper,13,right,RB Leipzig,2023-06-30,2022-10-09,Solbakken / Player ...,
+63,Jonas Nickisch,,18,1.9,Germany,Dresden,0.2,0.2,Goalkeeper,1,both,RB Leipzig U19,2023-06-30,2021-07-01,neblung ...,
+64,Timo Schlieck,,17,1.95,Germany,Oelde,0.2,0.2,Goalkeeper,1,right,RB Leipzig U17,2025-06-30,2021-07-01,,
+65,Oskar Preil,,19,1.87,Germany,,,,Goalkeeper,29,right,RB Leipzig,2023-06-30,2022-07-01,SOCCERNATION GROUP,
+66,Josko Gvardiol,Joško Gvardiol,21,1.85,Croatia,Zagreb,75.0,75.0,Defender - Centre-Back,32,left,RB Leipzig,2027-06-30,2021-07-01,Marjan Sisic,
+67,Mohamed Simakan,,23,1.87,France  Guinea,Marseille,28.0,28.0,Defender - Centre-Back,2,right,RB Leipzig,2027-06-30,2021-07-01,BS Group - BS Law,Puma
+68,Abdou Diallo,Abdou-Lakhad Diallo,27,1.87,Senegal  France,Tours,15.0,35.0,Defender - Centre-Back,37,left,RB Leipzig,2023-06-30,2022-09-01,Classico,Puma
+69,Willi Orbán,Vilmos Tamás Orbán,30,1.86,Hungary  Germany,Kaiserslautern,10.0,20.0,Defender - Centre-Back,4,right,RB Leipzig,2025-06-30,2015-07-01,ROGON,Nike
+70,David Raum,,25,1.8,Germany,Nürnberg,20.0,26.0,Defender - Left-Back,22,left,RB Leipzig,2027-06-30,2022-07-31,ROOF,
+71,Marcel Halstenberg,,31,1.88,Germany,Laatzen,4.0,22.0,Defender - Left-Back,23,left,RB Leipzig,2024-06-30,2015-08-31,TrueSports GmbH,
+72,Sanoussy Ba,,19,1.84,Germany  Senegal,Hof,0.5,0.5,Defender - Left-Back,25,both,RB Leipzig,2025-06-30,2022-07-01,Sports360 GmbH,
+73,Benjamin Henrichs,,26,1.85,Germany  Ghana,Bocholt,15.0,20.0,Defender - Right-Back,39,right,RB Leipzig,2025-06-30,2021-07-01,CN Sports,
+74,Lukas Klostermann,Lukas Manuel Klostermann,26,1.89,Germany,Gevelsberg,12.0,38.0,Defender - Right-Back,16,right,RB Leipzig,2024-06-30,2014-08-22,EMG Mundial,
+75,Konrad Laimer,,25,1.8,Austria,Salzburg,28.0,30.0,midfield - Central Midfield,27,right,RB Leipzig,2023-06-30,2017-07-01,ROOF,
+76,Xaver Schlager,,25,1.74,Austria,Linz,22.0,27.0,midfield - Central Midfield,24,left,RB Leipzig,2026-06-30,2022-07-01,ROOF,Puma
+77,Amadou Haidara,,25,1.75,Mali,Bamako,17.0,24.0,midfield - Central Midfield,8,right,RB Leipzig,2025-06-30,2019-01-01,ROOF,
+78,Kevin Kampl,,32,1.78,Slovenia,Solingen,5.0,22.0,midfield - Central Midfield,44,right,RB Leipzig,2024-06-30,2017-08-31,MR Sport Management ...,adidas
+79,Dani Olmo,Daniel Olmo Carvajal,25,1.79,Spain,Terrassa,40.0,50.0,midfield - Attacking Midfield,7,right,RB Leipzig,2024-06-30,2020-01-25,Niagara Sports ...,
+80,Dominik Szoboszlai,,22,1.87,Hungary,Székesfehérvár,40.0,40.0,midfield - Attacking Midfield,17,right,RB Leipzig,2026-06-30,2021-01-01,EM Sports Consulting,
+81,Emil Forsberg,Emil Peter Forsberg,31,1.77,Sweden,Sundsvall,9.0,28.0,midfield - Attacking Midfield,10,right,RB Leipzig,2025-06-30,2015-01-07,HCM Sports ...,
+82,Caden Clark,Caden Christopher Clark,19,1.8,United States,"Medina, Minnesota",2.8,3.5,midfield - Attacking Midfield,28,right,RB Leipzig,2025-06-30,2021-07-01,YMU Group,
+83,Christopher Nkunku,Christopher Alan Nkunku,25,1.78,France  DR Congo,Lagny-sur-Marne,80.0,80.0,Attack - Second Striker,18,right,RB Leipzig,2026-06-30,2019-07-18,Gol International,adidas
+84,Timo Werner,,27,1.8,Germany,Stuttgart,25.0,80.0,Attack - Centre-Forward,11,right,RB Leipzig,2026-06-30,2022-08-09,Sports360 GmbH,adidas
+85,André Silva,André Miguel Valente Silva,27,1.85,Portugal,Baguim do Monte,20.0,45.0,Attack - Centre-Forward,19,right,RB Leipzig,2026-06-30,2021-07-02,Gestifute,Nike
+86,Yussuf Poulsen,Yussuf Yurary Poulsen,28,1.92,Denmark  Tanzania,Kopenhagen,10.0,35.0,Attack - Centre-Forward,9,right,RB Leipzig,2024-06-30,2013-07-04,PEP Consulting,
+87,Lukas Hradecky,Lukáš Hrádecký,33,1.92,Finland  Slovakia,Bratislava,2.5,12.0,Goalkeeper,1,right,B. Leverkusen,2026-06-30,2018-07-01,,Uhlsport
+88,Patrick Pentz,,26,1.82,Austria,Salzburg,1.5,2.5,Goalkeeper,28,left,B. Leverkusen,2025-06-30,2023-01-27,World in Motion,Uhlsport
+89,Andrey Lunev,Лунёв Андрей Евгеньевич,31,1.9,Russia,Moskau,1.5,10.5,Goalkeeper,40,right,B. Leverkusen,2023-06-30,2021-07-10,,Nike
+90,Niklas Lomb,,29,1.86,Germany,Köln,0.25,0.4,Goalkeeper,36,right,B. Leverkusen,2024-06-30,2012-07-01,Dirk Hebel,
+91,Edmond Tapsoba,Edmond Fayçal Tapsoba,24,1.94,Burkina Faso,Ouagadougou,30.0,40.0,Defender - Centre-Back,12,right,B. Leverkusen,2026-06-30,2020-01-31,D20 Sports,
+92,Piero Hincapié,Piero Martín Hincapié Reyna,21,1.83,Ecuador,Esmeraldas,25.0,25.0,Defender - Centre-Back,3,left,B. Leverkusen,2027-06-30,2021-08-16,Fútbol División,adidas
+93,Jonathan Tah,Jonathan Glao Tah,27,1.95,Germany,Hamburg,20.0,40.0,Defender - Centre-Back,4,right,B. Leverkusen,2025-06-30,2015-07-16,Gol International,adidas
+94,Odilon Kossounou,Odilon Kossounou Kouakou,22,1.91,Cote d'Ivoire,Abidjan,20.0,23.0,Defender - Centre-Back,6,right,B. Leverkusen,2026-06-30,2021-07-22,Global Soccer ...,
+95,Mitchel Bakker,,22,1.85,Netherlands,Purmerend,9.0,14.0,Defender - Left-Back,5,left,B. Leverkusen,2025-06-30,2021-07-12,Team Raiola,
+96,Daley Sinkgraven,,27,1.79,Netherlands,Assen,3.0,9.0,Defender - Left-Back,22,left,B. Leverkusen,2023-06-30,2019-07-01,V4S,Nike
+97,Jeremie Frimpong,Jeremie Agyekum Frimpong,22,1.71,Netherlands  Ghana,Amsterdam,35.0,35.0,Defender - Right-Back,30,right,B. Leverkusen,2025-06-30,2021-01-27,Prolific Sports ...,Puma
+98,Timothy Fosu-Mensah,Timothy Evans Fosu-Mensah,25,1.85,Netherlands  Ghana,Amsterdam,3.0,7.0,Defender - Right-Back,24,right,B. Leverkusen,2024-06-30,2021-01-13,CAA Base Ltd,
+99,Robert Andrich,,28,1.87,Germany,Potsdam,11.0,13.0,midfield - Defensive Midfield,8,right,B. Leverkusen,2026-06-30,2021-08-16,teamplayer ...,
+100,Noah Mbamba,Noah Mbamba-Muanda,18,1.87,Belgium,Elsene,3.0,5.0,midfield - Defensive Midfield,18,right,B. Leverkusen,2028-06-30,2023-01-14,,
+101,Ayman Azhil,,22,1.75,Morocco  Germany,Düsseldorf,0.4,0.4,midfield - Defensive Midfield,32,,B. Leverkusen,2023-06-30,2020-07-01,KL Sportsbase,
+102,Joshua Eze,Joshua Chima Eze,20,1.83,Germany  Nigeria,Leverkusen,0.2,0.2,midfield - Defensive Midfield,35,right,B. Leverkusen,2024-06-30,2022-07-01,Kick&Run,
+103,Exequiel Palacios,Exequiel Alejandro Palacios,24,1.77,Argentina,Famaillá,15.0,25.0,midfield - Central Midfield,25,right,B. Leverkusen,2025-06-30,2020-01-01,Eleven Talent Group,
+104,Kerem Demirbay,,29,1.83,Germany  Turkey,Herten,9.0,32.0,midfield - Central Midfield,10,left,B. Leverkusen,2024-06-30,2019-07-01,EMG Mundial,adidas
+105,Nadiem Amiri,,26,1.8,Germany  Afghanistan,Ludwigshafen am Rhein,6.0,22.0,midfield - Central Midfield,11,right,B. Leverkusen,2024-06-30,2019-07-30,,
+106,Florian Wirtz,Florian Richard Wirtz,20,1.76,Germany,Pulheim,85.0,85.0,midfield - Attacking Midfield,27,right,B. Leverkusen,2027-06-30,2020-07-01,Relatives,adidas
+107,Callum Hudson-Odoi,Callum James Hudson-Odoi,22,1.77,England  Ghana,London,17.0,35.0,Attack - Left Winger,17,right,B. Leverkusen,2023-06-30,2022-08-30,Relatives,adidas
+108,Amine Adli,,23,1.74,France  Morocco,Béziers,15.0,15.0,Attack - Left Winger,21,left,B. Leverkusen,2026-06-30,2021-08-26,Concept Sport Agency,adidas
+109,Moussa Diaby,,23,1.7,France  Mali,Paris,50.0,60.0,Attack - Right Winger,19,left,B. Leverkusen,2025-06-30,2019-07-01,AIS SPORT SERVICE,
+110,Karim Bellarabi,كريم بلعربي,33,1.84,Germany  Morocco,Berlin,2.5,22.0,Attack - Right Winger,38,right,B. Leverkusen,2023-06-30,2011-07-01,KL Sportsbase,
+111,Patrik Schick,,27,1.91,Czech Republic,Praha,30.0,50.0,Attack - Centre-Forward,14,left,B. Leverkusen,2027-06-30,2020-09-08,Int. Sport ...,
+112,Adam Hlozek,Adam Hložek,20,1.88,Czech Republic,Ivančice,15.0,20.0,Attack - Centre-Forward,23,right,B. Leverkusen,2027-06-30,2022-07-01,Int. Sport ...,Nike
+113,Sardar Azmoun,سردار آزمون,28,1.86,Iran,"Gonbad-e Kavus, Golestan",12.0,25.0,Attack - Centre-Forward,9,both,B. Leverkusen,2027-06-30,2022-01-30,Epic Sports,Nike
+114,Kevin Trapp,Kevin Christian Trapp,32,1.89,Germany,Merzig,8.5,12.0,Goalkeeper,1,right,E. Frankfurt,2026-06-30,2019-08-07,Sports360 GmbH,adidas
+115,Diant Ramaj,,21,1.89,Germany  Kosovo,Stuttgart,0.75,0.75,Goalkeeper,40,both,E. Frankfurt,2027-06-30,2021-07-01,BMS Sportconsulting ...,
+116,Jens Grahl,,34,1.92,Germany,Stuttgart,0.2,0.75,Goalkeeper,31,right,E. Frankfurt,2026-06-30,2021-07-19,PESM,
+117,Simon Simoni,,18,1.94,Albania,Lezhë,0.2,0.25,Goalkeeper,41,right,E. Frankfurt,2027-06-30,2023-01-01,Creatio Management,
+118,Evan Ndicka,Obite Evan Ndicka,23,1.92,France  Cameroon,Paris,32.0,32.0,Defender - Centre-Back,2,left,E. Frankfurt,2023-06-30,2018-07-05,AMS CONSULTING,
+119,Tuta,,23,1.85,Brazil,São Paulo,15.0,15.0,Defender - Centre-Back,35,right,E. Frankfurt,2026-06-30,2019-01-31,Wolfs,
+120,Hrvoje Smolcic,Hrvoje Smolčić,22,1.85,Croatia,Gospić,5.0,5.0,Defender - Centre-Back,5,left,E. Frankfurt,2027-06-30,2022-07-01,Niagara Sports ...,
+121,Almamy Touré,,27,1.83,Mali  France,Bamako,2.5,8.0,Defender - Centre-Back,18,right,E. Frankfurt,2023-06-30,2019-01-31,,
+122,Makoto Hasebe,長谷部 誠,39,1.8,Japan,"Fujieda, Shizuoka",0.8,5.0,Defender - Centre-Back,20,right,E. Frankfurt,2024-06-30,2014-07-01,PRO Profil GmbH,Puma
+123,Philipp Max,,29,1.77,Germany,Viersen,6.0,20.0,Defender - Left-Back,32,left,E. Frankfurt,2023-06-30,2023-01-31,Sports360 GmbH,Nike
+124,Christopher Lenz,,28,1.8,Germany,Berlin,5.0,5.0,Defender - Left-Back,25,left,E. Frankfurt,2024-06-30,2021-07-01,ROOF,
+125,Jan Schröder,Jan Alex Wilson Schröder,20,1.82,Germany  Spain,Herrenberg,0.2,0.2,Defender - Left-Back,49,left,E. Frankfurt,2023-06-30,2021-08-20,,
+126,Aurélio Buta,Aurélio Gabriel Ulineia Buta,26,1.72,Portugal  Angola,,6.0,6.0,Defender - Right-Back,24,right,E. Frankfurt,2026-06-30,2022-07-01,Proeleven S.A.,
+127,Timothy Chandler,,33,1.86,United States  Germany,Frankfurt am Main,1.2,5.0,Defender - Right-Back,22,right,E. Frankfurt,2025-06-30,2014-07-01,Sports eXcellence ...,adidas
+128,Kristijan Jakic,Kristijan Jakić,25,1.81,Croatia,Split,9.0,9.0,midfield - Defensive Midfield,6,right,E. Frankfurt,2026-06-30,2022-07-01,Niagara Sports ...,
+129,Djibril Sow,Mohameth Djibril Ibrahima Sow,26,1.84,Switzerland  Senegal,Zürich,22.0,22.0,midfield - Central Midfield,8,right,E. Frankfurt,2024-06-30,2019-07-01,Signature - ISCM AG,
+130,Sebastian Rode,,32,1.79,Germany,Seeheim-Jugenheim,2.5,10.0,midfield - Central Midfield,17,right,E. Frankfurt,2024-06-30,2019-07-27,PRO Profil GmbH,Nike
+131,Marcel Wenig,,19,1.88,Germany  Greece,Nürnberg,0.8,0.8,midfield - Central Midfield,28,right,E. Frankfurt,2025-06-30,2022-07-01,Skylar,adidas
+132,Mehdi Loune,,18,1.72,Germany  Morocco,Hanau,0.3,0.3,midfield - Central Midfield,45,,E. Frankfurt,2025-06-30,2022-07-01,Selected ...,Puma
+133,Junior Dina Ebimbe,Éric Junior Dina Ebimbe,22,1.84,France  Cameroon,Stains,7.5,7.5,midfield - Right Midfield,26,right,E. Frankfurt,2023-06-30,2022-08-21,Relatives,
+134,Daichi Kamada,鎌田 大地,26,1.84,Japan,"Iyo, Ehime",30.0,30.0,midfield - Attacking Midfield,15,right,E. Frankfurt,2023-06-30,2017-07-01,Roberto Tukada,Nike
+135,Jesper Lindström,Jesper Grænge Lindstrøm,23,1.82,Denmark,Taastrup,28.0,28.0,midfield - Attacking Midfield,29,right,E. Frankfurt,2026-06-30,2021-07-11,NSG ApS,adidas
+136,Mario Götze,,30,1.76,Germany,Memmingen,13.0,55.0,midfield - Attacking Midfield,27,right,E. Frankfurt,2025-06-30,2022-07-01,Sports360 GmbH,Nike
+137,Paxten Aaronson,Paxten Reid Aaronson,19,1.75,United States,"Medford, New Jersey",4.5,4.5,midfield - Attacking Midfield,30,right,E. Frankfurt,2027-06-30,2023-01-01,Wasserman,
+138,Faride Alidou,,21,1.86,Germany  Togo,Hamburg,2.5,2.5,Attack - Left Winger,11,right,E. Frankfurt,2026-06-30,2022-07-01,FTC,
+139,Ansgar Knauff,,21,1.8,Germany  Ghana,Göttingen,10.0,10.0,Attack - Right Winger,36,right,E. Frankfurt,2023-06-30,2022-01-20,H.S.P. ...,Under Armour
+140,Randal Kolo Muani,,24,1.87,France  DR Congo,Bondy,65.0,65.0,Attack - Centre-Forward,9,right,E. Frankfurt,2027-06-30,2022-07-01,Relatives,adidas
+141,Rafael Borré,Rafael Santos Borré Maury,27,1.74,Colombia,Barranquilla,12.0,20.0,Attack - Centre-Forward,19,right,E. Frankfurt,2025-06-30,2021-07-05,Wasserman,
+142,Lucas Alario,Lucas Nicolás Alario,30,1.85,Argentina  Italy,"Tostado, Santa Fe",4.0,20.0,Attack - Centre-Forward,21,right,E. Frankfurt,2025-06-30,2022-07-01,Pedro Aldave Ortuzar,adidas
+143,Nacho Ferri,Ignacio Ferri Julià,18,1.92,Spain,Montaverner,,,Attack - Centre-Forward,48,right,E. Frankfurt,2025-06-30,2022-10-05,INVSPORT (Sergio ...,
+144,Jonas Omlin,,29,1.9,Switzerland,Sarnen,7.0,8.0,Goalkeeper,1,right,Bor. M'gladbach,2027-06-30,2023-01-19,Signature - ISCM AG,Puma
+145,Jan Olschowsky,Jan Jakob Olschowsky,21,1.84,Germany,Neuss,0.5,0.5,Goalkeeper,41,right,Bor. M'gladbach,2027-06-30,2020-07-13,B360 Sports,Puma
+146,Tobias Sippel,,35,1.83,Germany,Bad Dürkheim,0.4,3.0,Goalkeeper,21,right,Bor. M'gladbach,2024-06-30,2015-07-01,Dr. Michael Becker,
+147,Nico Elvedi,,26,1.89,Switzerland,Zürich,20.0,35.0,Defender - Centre-Back,30,right,Bor. M'gladbach,2024-06-30,2015-07-01,IFM,Nike
+148,Ko Itakura,板倉 滉,26,1.88,Japan,"Yokohama, Kanagawa",12.0,12.0,Defender - Centre-Back,3,right,Bor. M'gladbach,2026-06-30,2022-07-02,CAA Base Ltd,Nike
+149,Marvin Friedrich,,27,1.93,Germany,Kassel,5.0,10.0,Defender - Centre-Back,5,right,Bor. M'gladbach,2026-06-30,2022-01-11,ROOF,adidas
+150,Tony Jantschke,,33,1.77,Germany,Hoyerswerda,0.8,9.0,Defender - Centre-Back,24,right,Bor. M'gladbach,2024-06-30,2009-07-01,Fröhlich ...,
+151,Mamadou Doucouré,,24,1.83,France  Senegal,Dakar,0.1,0.5,Defender - Centre-Back,4,left,Bor. M'gladbach,2024-06-30,2016-07-01,Sport Avenir ...,
+152,Ramy Bensebaini,رامي بن سبعيني,28,1.87,Algeria,Constantine,20.0,22.0,Defender - Left-Back,25,left,Bor. M'gladbach,2023-06-30,2019-08-14,HCM Sports ...,
+153,Luca Netz,,19,1.84,Germany,Berlin,6.5,6.5,Defender - Left-Back,20,left,Bor. M'gladbach,2026-06-30,2021-08-06,11WINS,
+154,Joe Scally,Joseph Michael Scally,20,1.84,United States,"Lake Grove, New York",12.0,12.0,Defender - Right-Back,29,right,Bor. M'gladbach,2027-06-30,2021-01-01,Wasserman,Nike
+155,Stefan Lainer,,30,1.75,Austria,Salzburg,3.5,18.0,Defender - Right-Back,18,right,Bor. M'gladbach,2024-06-30,2019-07-01,ROOF,
+156,Simon Walde,,18,1.85,Germany,Düsseldorf,,,Defender - Right-Back,45,right,Bor. M'gladbach,2026-06-30,2023-01-04,Wasserman,adidas
+157,Julian Weigl,,27,1.86,Germany,Bad Aibling,15.0,30.0,midfield - Defensive Midfield,8,right,Bor. M'gladbach,2023-06-30,2022-09-01,Sports360 GmbH,Puma
+158,Christoph Kramer,,32,1.91,Germany,Solingen,2.5,14.0,midfield - Defensive Midfield,6,right,Bor. M'gladbach,2025-06-30,2016-07-01,ROOF,adidas
+159,Manu Koné,Kouadio Manu Koné,21,1.85,France  Cote d'Ivoire,Colombes,30.0,30.0,midfield - Central Midfield,17,right,Bor. M'gladbach,2025-06-30,2021-01-21,Classico,adidas
+160,Florian Neuhaus,Florian Christian Neuhaus,26,1.85,Germany,Landsberg am Lech,15.0,38.0,midfield - Central Midfield,32,right,Bor. M'gladbach,2024-06-30,2017-07-01,CN Sports,
+161,Oscar Fraulo,Oscar Luigi Fraulo,19,1.8,Denmark  Italy,Odense,2.0,2.0,midfield - Central Midfield,22,right,Bor. M'gladbach,2026-06-30,2022-07-01,NINE Group,Nike
+162,Lars Stindl,Lars Edi Stindl,34,1.81,Germany,Speyer,2.5,18.0,midfield - Attacking Midfield,13,right,Bor. M'gladbach,2023-06-30,2015-07-01,Dirk Hebel,
+163,Conor Noß,,22,1.81,Ireland  Germany,Düsseldorf,0.7,0.7,midfield - Attacking Midfield,34,both,Bor. M'gladbach,2024-06-30,2021-07-01,B360 Sports,adidas
+164,Alassane Plea,Alassane Alexandre Plea,30,1.81,France  Mali,Lille,10.0,38.0,Attack - Left Winger,14,right,Bor. M'gladbach,2025-06-30,2018-07-13,SMI SPORTS ...,
+165,Hannes Wolf,Hannes Tarn Wolf,24,1.79,Austria,Graz,4.0,12.0,Attack - Left Winger,11,left,Bor. M'gladbach,2024-06-30,2021-07-01,HCM Sports ...,
+166,Yvandro Borges Sanches,,18,1.75,Luxembourg  Cape Verde,Luxemburg,1.5,1.5,Attack - Left Winger,38,right,Bor. M'gladbach,2025-06-30,2022-07-01,Wasserman,Puma
+167,Jonas Hofmann,,30,1.76,Germany,Heidelberg,13.0,16.0,Attack - Right Winger,23,right,Bor. M'gladbach,2025-06-30,2016-01-01,Dr. Marco Gutfleisch,
+168,Nathan Ngoumou,Nathan Ngoumou Minpole,23,1.83,France  Cameroon,Toulouse,5.0,7.0,Attack - Right Winger,19,right,Bor. M'gladbach,2027-06-30,2022-08-30,NexSt11,Puma
+169,Patrick Herrmann,,32,1.79,Germany,Uchtelfangen,2.0,12.0,Attack - Right Winger,7,right,Bor. M'gladbach,2024-06-30,2010-01-01,PRO Profil GmbH,Puma
+170,Marcus Thuram,Marcus Lilian Thuram-Ulien,25,1.92,France  Guadeloupe,Parma,32.0,40.0,Attack - Centre-Forward,10,right,Bor. M'gladbach,2023-06-30,2019-07-22,Sport Cover,Nike
+171,Koen Casteels,,30,1.97,Belgium,Bonheiden,8.0,14.0,Goalkeeper,1,left,VfL Wolfsburg,2024-06-30,2015-01-21,Relatives,Nike
+172,Pavao Pervan,,35,1.94,Austria,Livno,0.4,0.8,Goalkeeper,12,both,VfL Wolfsburg,2024-06-30,2018-07-01,ROOF,
+173,Philipp Schulze,,20,1.9,Germany,,0.2,0.2,Goalkeeper,35,,VfL Wolfsburg,2026-06-30,2021-07-01,PRO Profil GmbH,adidas
+174,Niklas Klinger,,27,1.87,Germany,Wolfsburg,0.1,0.1,Goalkeeper,30,right,VfL Wolfsburg,2025-06-30,2019-07-01,TPWE GmbH,
+175,Maxence Lacroix,,23,1.9,France  Guadeloupe,Villeneuve-Saint-Georges,20.0,28.0,Defender - Centre-Back,4,right,VfL Wolfsburg,2025-06-30,2020-08-25,Hexagon,
+176,Micky van de Ven,,22,1.93,Netherlands,Wormer,18.0,18.0,Defender - Centre-Back,5,left,VfL Wolfsburg,2027-06-30,2021-08-31,Team Raiola,
+177,Sebastiaan Bornauw,,24,1.91,Belgium,Wemmel,8.5,14.0,Defender - Centre-Back,3,right,VfL Wolfsburg,2026-06-30,2021-07-16,CAA Stellar,adidas
+178,Paulo Otávio,,28,1.73,Brazil,Ourinhos,6.5,8.0,Defender - Left-Back,6,left,VfL Wolfsburg,2023-06-30,2019-07-01,TFM Agency,
+179,Nicolas Cozza,Nicolas Louis Marcel Cozza,24,1.78,France  Italy,Ganges,5.0,5.0,Defender - Left-Back,8,left,VfL Wolfsburg,2027-06-30,2023-01-25,,
+180,Ridle Baku,Bote Nzuzi Baku,25,1.76,Germany  DR Congo,Mainz,13.0,25.0,Defender - Right-Back,20,right,VfL Wolfsburg,2025-06-30,2020-10-01,AKA Global GmbH,adidas
+181,Kilian Fischer,,22,1.82,Germany,Miltenberg,2.0,2.0,Defender - Right-Back,2,both,VfL Wolfsburg,2027-06-30,2022-07-01,Robert Schneider,
+182,Bartol Franjic,Bartol Franjić,23,1.88,Croatia,Zagreb,4.0,6.5,midfield - Defensive Midfield,38,left,VfL Wolfsburg,2027-06-30,2022-07-01,Kostila,
+183,Josuha Guilavogui,,32,1.88,France  Guinea,Toulon,3.0,14.0,midfield - Defensive Midfield,29,right,VfL Wolfsburg,2023-06-30,2016-07-01,Relatives,
+184,Maximilian Arnold,,28,1.84,Germany,Riesa,17.0,19.0,midfield - Central Midfield,27,left,VfL Wolfsburg,2026-06-30,2012-01-01,Karl M. Herzog ...,
+185,Mattias Svanberg,Mattias Olof Svanberg,24,1.85,Sweden,Malmö,15.0,15.0,midfield - Central Midfield,32,right,VfL Wolfsburg,2027-06-30,2022-07-16,MD Management,
+186,Yannick Gerhardt,,29,1.84,Germany,Würselen,7.0,12.0,midfield - Central Midfield,31,left,VfL Wolfsburg,2025-06-30,2016-07-01,Stephan Engels,
+187,Kevin Paredes,Kevin Alexander Paredes,20,1.7,United States  Dominican Republic,"South Riding, Virginia",5.0,5.0,midfield - Left Midfield,40,left,VfL Wolfsburg,2026-06-30,2022-01-28,,
+188,Felix Nmecha,,22,1.9,Germany  England,Hamburg,8.0,8.0,midfield - Attacking Midfield,22,right,VfL Wolfsburg,2024-06-30,2021-07-21,,
+189,Jakub Kaminski,Jakub Kamiński,20,1.79,Poland,Ruda Śląska,10.0,10.0,Attack - Left Winger,16,right,VfL Wolfsburg,2027-06-30,2022-07-01,BMG-SPORT,adidas
+190,Patrick Wimmer,,21,1.82,Austria,Tulln,12.0,12.0,Attack - Right Winger,39,,VfL Wolfsburg,2027-06-30,2022-07-01,More than Sport GmbH,Puma
+191,Luca Waldschmidt,Gian-Luca Waldschmidt,26,1.81,Germany,Siegen,3.0,20.0,Attack - Second Striker,7,left,VfL Wolfsburg,2025-06-30,2021-08-22,Sports360 GmbH,
+192,Lukas Nmecha,Lukas Okechukwu Nmecha,24,1.85,Germany  England,Hamburg,14.0,18.0,Attack - Centre-Forward,10,right,VfL Wolfsburg,2025-06-30,2021-07-16,,
+193,Jonas Wind,Jonas Older Wind,24,1.9,Denmark,Hvidovre,14.0,14.0,Attack - Centre-Forward,23,right,VfL Wolfsburg,2026-06-30,2022-01-31,People In Sport,
+194,Omar Marmoush,عمر مرموش | Omar Khaled Mohamed Marmoush,24,1.83,Egypt  Canada,Kairo,6.0,6.0,Attack - Centre-Forward,33,right,VfL Wolfsburg,2023-06-30,2020-07-01,CAA Stellar,
+195,Dzenan Pejcinovic,Dženan Pejčinović,18,1.88,Germany  Montenegro,München,1.0,1.0,Attack - Centre-Forward,18,left,VfL Wolfsburg,2027-06-30,2022-07-14,Karl M. Herzog ...,
+196,Mark Flekken,,29,1.95,Netherlands,Bocholtz,7.0,7.0,Goalkeeper,26,both,SC Freiburg,,2018-07-01,SEG,
+197,Noah Atubolu,,20,1.9,Germany  Nigeria,Freiburg im Breisgau,2.0,2.0,Goalkeeper,21,right,SC Freiburg,,2021-07-01,Unique Sports Group,
+198,Benjamin Uphoff,,29,1.92,Germany,Burghausen,0.5,0.6,Goalkeeper,1,right,SC Freiburg,,2020-08-05,Karl M. Herzog ...,
+199,Philipp Lienhart,,26,1.89,Austria,Lilienfeld,20.0,20.0,Defender - Centre-Back,3,right,SC Freiburg,2024-06-30,2018-07-01,YOU FIRST,Nike
+200,Matthias Ginter,Matthias Lukas Ginter,29,1.91,Germany,Freiburg im Breisgau,20.0,35.0,Defender - Centre-Back,28,right,SC Freiburg,2027-06-30,2022-07-01,Unique Sports Group,
+201,Manuel Gulde,,32,1.84,Germany,Mannheim,1.7,4.0,Defender - Centre-Back,5,right,SC Freiburg,,2016-07-01,Unique Sports Group,
+202,Kenneth Schmidt,Tan-Kenneth Jerico Leka-Schmidt,20,1.87,Germany,Freiburg im Breisgau,0.75,0.75,Defender - Centre-Back,35,left,SC Freiburg,,2023-01-01,Relatives,
+203,Christian Günter,,30,1.84,Germany,Villingen-Schwenningen,10.0,12.0,Defender - Left-Back,30,left,SC Freiburg,,2012-07-01,Unique Sports Group,
+204,Kimberly Ezekwem,Kimberly Chiwetalu Akwaeze Ezekwem,21,1.87,Germany  Nigeria,München,0.35,0.35,Defender - Left-Back,24,left,SC Freiburg,,2021-07-01,CN Sports,
+205,Kiliann Sildillia,Kiliann Eric Sildillia,20,1.86,France  Guadeloupe,Montigny-lès-Metz,12.0,12.0,Defender - Right-Back,25,right,SC Freiburg,2026-06-30,2021-07-01,ROGON,
+206,Lukas Kübler,,30,1.82,Germany,Bonn,3.0,3.0,Defender - Right-Back,17,right,SC Freiburg,,2015-07-01,ROOF,
+207,Jonathan Schmid,,32,1.79,France,Strasbourg,1.2,5.0,Defender - Right-Back,7,right,SC Freiburg,,2019-07-01,Unique Sports Group,
+208,Yannik Keitel,,23,1.86,Germany,Breisach am Rhein,4.0,4.0,midfield - Defensive Midfield,14,both,SC Freiburg,2024-06-30,2020-04-16,Unique Sports Group,
+209,Nicolas Höfler,,33,1.81,Germany,Überlingen,2.5,4.5,midfield - Defensive Midfield,27,right,SC Freiburg,,2010-07-01,,
+210,Maximilian Eggestein,,26,1.81,Germany,Hannover,8.0,30.0,midfield - Central Midfield,8,right,SC Freiburg,2025-06-30,2021-08-18,ROOF,
+211,Merlin Röhl,,20,1.92,Germany,Berlin,2.0,2.0,midfield - Central Midfield,34,both,SC Freiburg,,2022-08-17,sportlobby,
+212,Robert Wagner,,19,1.81,Germany,Lahr,0.9,0.9,midfield - Central Midfield,23,right,SC Freiburg,2024-06-30,2022-07-01,VIDA 11,
+213,Daniel-Kofi Kyereh,,27,1.79,Ghana  Germany,Accra,8.0,8.0,midfield - Attacking Midfield,11,right,SC Freiburg,,2022-07-01,Alfaria sports GmbH,
+214,Vincenzo Grifo,,30,1.8,Italy,Pforzheim,12.0,12.0,Attack - Left Winger,32,right,SC Freiburg,,2019-09-02,ROOF,
+215,Noah Weißhaupt,Noah Raphael Weißhaupt,21,1.81,Germany,Rostock,2.5,2.5,Attack - Left Winger,33,right,SC Freiburg,,2021-07-01,Unique Sports Group,Puma
+216,Ritsu Doan,堂安 律,24,1.72,Japan,"Amagasaki, Hyogo",15.0,15.0,Attack - Right Winger,42,left,SC Freiburg,,2022-07-05,CAA Stellar,Puma
+217,Roland Sallai,,25,1.83,Hungary,Budapest,10.0,16.0,Attack - Right Winger,22,both,SC Freiburg,2025-06-30,2018-08-31,World Soccer Agency,Nike
+218,Woo-yeong Jeong,정우영,23,1.79,"Korea, South",Ulsan,4.0,5.5,Attack - Second Striker,29,right,SC Freiburg,2025-06-30,2019-07-01,Apertura Sports GmbH,
+219,Michael Gregoritsch,,29,1.93,Austria,Graz,8.0,20.0,Attack - Centre-Forward,38,left,SC Freiburg,,2022-07-08,ROGON,adidas
+220,Lucas Höler,,28,1.84,Germany,Achim,5.0,6.5,Attack - Centre-Forward,9,right,SC Freiburg,,2018-01-01,Unique Sports Group,
+221,Nils Petersen,,34,1.88,Germany,Wernigerode,1.5,12.0,Attack - Centre-Forward,18,right,SC Freiburg,2023-06-30,2015-07-01,Relatives,adidas
+222,Oliver Baumann,,32,1.87,Germany,Breisach am Rhein,4.5,10.0,Goalkeeper,1,right,TSG Hoffenheim,2024-06-30,2014-07-01,CN Sports,adidas
+223,Philipp Pentke,,38,1.91,Germany,Freiberg,0.3,0.4,Goalkeeper,12,right,TSG Hoffenheim,2023-06-30,2019-07-01,Bigpoint,HashtagOne
+224,Luca Philipp,,22,1.92,Germany,Stuttgart,0.3,0.3,Goalkeeper,37,,TSG Hoffenheim,2024-06-30,2020-07-31,Relatives,
+225,Nahuel Noll,Nahuel Nicolas Noll,20,1.88,Germany  Spain,München,0.25,0.25,Goalkeeper,36,both,TSG Hoffenheim,2025-06-30,2021-07-01,VIDA 11,
+226,Ozan Kabak,Ozan Muhammed Kabak,23,1.87,Turkey,Ankara,10.0,32.0,Defender - Centre-Back,5,right,TSG Hoffenheim,2026-06-30,2022-07-23,F-F SPORT,Nike
+227,Stanley Nsoki,Stanley Pierre Nsoki,24,1.84,France  DR Congo,Poissy,8.5,12.0,Defender - Centre-Back,34,left,TSG Hoffenheim,2027-06-30,2022-08-03,ROGON,
+228,Kevin Akpoguma,Kevin John Ufuoma Akpoguma,28,1.92,Nigeria  Germany,Neustadt an der Weinstraße,4.0,12.0,Defender - Centre-Back,25,right,TSG Hoffenheim,2024-06-30,2013-07-01,Unique Sports Group,adidas
+229,Kevin Vogt,,31,1.94,Germany,Witten,3.5,17.0,Defender - Centre-Back,22,right,TSG Hoffenheim,2025-06-30,2016-07-01,ROOF,
+230,John Anthony Brooks,,30,1.94,United States  Germany,Berlin,3.0,15.0,Defender - Centre-Back,23,left,TSG Hoffenheim,2024-06-30,2023-01-26,ROGON,
+231,Eduardo Quaresma,Eduardo Filipe Quaresma Vieira Coimbra Simões,21,1.85,Portugal,Barreiro,3.0,7.0,Defender - Centre-Back,26,right,TSG Hoffenheim,2023-06-30,2022-08-04,Proeleven S.A.,adidas
+232,Ermin Bicakcic,Ermin Bičakčić,33,1.85,Bosnia-Herzegovina  Germany,Zvornik,1.0,4.0,Defender - Centre-Back,4,right,TSG Hoffenheim,2023-06-30,2014-07-01,Sport Business ...,adidas
+233,Angeliño,,26,1.71,Spain,Coristanco,14.0,35.0,Defender - Left-Back,11,left,TSG Hoffenheim,2023-06-30,2022-08-08,VIDA 11,Nike
+234,Pavel Kaderabek,Pavel Kadeřábek,31,1.82,Czech Republic,Praha,4.0,20.0,Defender - Right-Back,3,right,TSG Hoffenheim,2025-06-30,2015-07-01,no agent,
+235,Justin Che,Justin Isiah Che,19,1.85,United States  Germany,"Richardson, Texas",2.0,3.0,Defender - Right-Back,24,right,TSG Hoffenheim,2023-06-30,2023-01-18,CAA Stellar,Nike
+236,Angelo Stiller,,22,1.83,Germany,München,6.0,7.0,midfield - Defensive Midfield,13,left,TSG Hoffenheim,2025-06-30,2021-07-01,Gol International,
+237,Sebastian Rudy,,33,1.8,Germany,Villingen-Schwenningen,1.5,15.0,midfield - Defensive Midfield,16,right,TSG Hoffenheim,2023-06-30,2021-07-01,Relatives,Nike
+238,Dennis Geiger,,24,1.73,Germany,Mosbach,9.0,13.0,midfield - Central Midfield,8,right,TSG Hoffenheim,2027-06-30,2016-07-01,WINStar Management,
+239,Grischa Prömel,,28,1.84,Germany,Stuttgart,7.5,7.5,midfield - Central Midfield,6,right,TSG Hoffenheim,2026-06-30,2022-07-01,Unique Sports Group,
+240,Thomas Delaney,Thomas Joseph Delaney,31,1.82,Denmark  United States,Frederiksberg,3.0,27.0,midfield - Central Midfield,17,left,TSG Hoffenheim,2023-06-30,2023-01-30,Elite Sports ...,
+241,Finn Ole Becker,,22,1.77,Germany,Elmshorn,1.0,2.5,midfield - Central Midfield,20,left,TSG Hoffenheim,2026-06-30,2022-07-01,Sports360 GmbH,
+242,Umut Tohumcu,Umut Deger Tohumcu,18,1.75,Germany  Turkey,Offenburg,1.0,1.0,midfield - Central Midfield,40,both,TSG Hoffenheim,2026-06-30,2023-01-18,ROGON,adidas
+243,Robert Skov,Robert Faxe Skov,26,1.85,Denmark,Marbella,9.0,14.0,midfield - Right Midfield,29,left,TSG Hoffenheim,2024-06-30,2019-07-29,Elite Sports ...,
+244,Christoph Baumgartner,,23,1.8,Austria,Horn,20.0,22.0,midfield - Attacking Midfield,14,right,TSG Hoffenheim,2025-06-30,2019-01-15,YOU FIRST,
+245,Tom Bischof,,17,1.76,Germany,Aschaffenburg,3.5,3.5,midfield - Attacking Midfield,39,left,TSG Hoffenheim,2025-06-30,2021-07-01,Agent is known - Player under 18,
+246,Muhammed Damar,Muhammed Mehmet Damar,19,1.85,Germany  Turkey,Berlin,1.0,1.0,midfield - Attacking Midfield,35,both,TSG Hoffenheim,2026-06-30,2022-07-01,EMG Mundial,
+247,Jacob Bruun Larsen,,24,1.83,Denmark,Lyngby,4.0,20.0,Attack - Left Winger,7,right,TSG Hoffenheim,2024-06-30,2020-01-31,Boutique Transfers,Nike
+248,Kasper Dolberg,Kasper Dolberg Rasmussen,25,1.87,Denmark,Silkeborg,9.0,23.0,Attack - Centre-Forward,19,right,TSG Hoffenheim,2023-06-30,2023-01-02,Rafaela Pimenta,adidas
+249,Andrej Kramaric,Andrej Kramarić,31,1.77,Croatia,Zagreb,9.0,38.0,Attack - Centre-Forward,27,right,TSG Hoffenheim,2025-06-30,2016-07-01,,adidas
+250,Ihlas Bebou,,29,1.83,Togo  Germany,Aledjo Kadara,7.0,16.0,Attack - Centre-Forward,9,right,TSG Hoffenheim,2026-06-30,2019-07-01,Wasserman,
+251,Munas Dabbur,מואנס דאבור,30,1.82,Israel,Nazareth,4.0,15.0,Attack - Centre-Forward,10,right,TSG Hoffenheim,2024-06-30,2020-01-07,Soccer Mondial AG,Nike
+252,Fisnik Asllani,,20,1.88,Germany  Kosovo,Berlin,0.8,0.8,Attack - Centre-Forward,44,both,TSG Hoffenheim,2026-06-30,2022-01-04,ROGON,
+253,Frederik Rönnow,Frederik Riis Rønnow,30,1.88,Denmark,Horsens,3.5,3.5,Goalkeeper,1,right,Union Berlin,2024-06-30,2021-07-20,Boutique Transfers,adidas
+254,Lennart Grill,Hannes Lennart Grill,24,1.92,Germany,Idar-Oberstein,1.0,1.5,Goalkeeper,37,right,Union Berlin,2023-06-30,2022-07-01,Soccertalk GmbH,
+255,Jakob Busk,Jakob Busk Jensen,29,1.89,Denmark,Kopenhagen,0.25,0.8,Goalkeeper,12,right,Union Berlin,2024-06-30,2016-01-15,Relatives,
+256,Diogo Leite,Diogo Filipe Monteiro Pinto Leite,24,1.9,Portugal,Porto,12.0,12.0,Defender - Centre-Back,4,left,Union Berlin,2023-06-30,2022-07-16,,
+257,Danilho Doekhi,Danilho Raimundo Doekhi,24,1.9,Netherlands  Suriname,Rotterdam,12.0,12.0,Defender - Centre-Back,5,right,Union Berlin,2025-06-30,2022-07-01,Wasserman,
+258,Paul Jaeckel,,24,1.86,Germany,Eisenhüttenstadt,5.5,7.5,Defender - Centre-Back,3,right,Union Berlin,,2021-07-01,Karl M. Herzog ...,adidas
+259,Robin Knoche,,30,1.89,Germany,Braunschweig,5.0,12.0,Defender - Centre-Back,31,right,Union Berlin,2024-06-30,2020-08-04,Sports360 GmbH,
+260,Timo Baumgartl,,27,1.9,Germany,Böblingen,3.5,15.0,Defender - Centre-Back,25,right,Union Berlin,2023-06-30,2021-07-01,CN Sports,adidas
+261,Jérôme Roussillon,,30,1.72,Guadeloupe  France,Sarcelles,3.0,20.0,Defender - Left-Back,26,left,Union Berlin,,2023-01-12,Only Pro Sport,Nike
+262,Niko Gießelmann,,31,1.82,Germany,Hannover,2.0,4.0,Defender - Left-Back,23,left,Union Berlin,2023-06-30,2020-07-15,SMG GmbH,
+263,Josip Juranovic,Josip Juranović,27,1.73,Croatia,Zagreb,9.0,9.0,Defender - Right-Back,18,right,Union Berlin,2027-06-30,2023-01-22,FSB – ...,
+264,Christopher Trimmel,,36,1.89,Austria,Oberpullendorf,0.8,1.2,Defender - Right-Back,28,right,Union Berlin,2024-06-30,2014-07-01,ROOF,adidas
+265,Rani Khedira,,29,1.89,Germany  Tunisia,Stuttgart,8.0,10.0,midfield - Defensive Midfield,8,right,Union Berlin,,2021-07-01,NGM SPORTS,
+266,Morten Thorsby,,27,1.88,Norway,Oslo,7.0,7.0,midfield - Central Midfield,2,right,Union Berlin,2025-06-30,2022-07-19,Pando,adidas
+267,Janik Haberer,,29,1.86,Germany,Wangen im Allgäu,7.0,10.0,midfield - Central Midfield,19,right,Union Berlin,2025-06-30,2022-07-01,Unique Sports Group,Puma
+268,András Schäfer,,24,1.78,Hungary,Szombathely,5.0,5.0,midfield - Central Midfield,13,both,Union Berlin,,2022-01-21,EM Sports Consulting,
+269,Aïssa Laïdouni,Aïssa Bilal Laïdouni,26,1.81,Tunisia  France,Montfermeil,4.0,4.0,midfield - Central Midfield,20,right,Union Berlin,,2023-01-27,World in Motion,
+270,Paul Seguin,,28,1.85,Germany,Magdeburg,3.0,3.0,midfield - Central Midfield,14,right,Union Berlin,,2022-07-01,think forward,Nike
+271,Levin Öztunali,Levin Mete Öztunali,27,1.84,Germany,Hamburg,1.5,6.5,midfield - Central Midfield,7,right,Union Berlin,,2021-07-01,CAA Stellar,Nike
+272,Kevin Möhwald,,29,1.82,Germany,Erfurt,0.7,4.0,midfield - Central Midfield,30,right,Union Berlin,,2021-08-30,Karl M. Herzog ...,
+273,Milos Pantovic,Милош Пантовић,26,1.86,Serbia  Germany,München,1.8,2.2,midfield - Attacking Midfield,32,right,Union Berlin,,2022-07-01,ROOF,Puma
+274,Tim Maciejewski,Tim Luis Maciejewski,22,1.86,Germany,Berlin,0.35,0.35,Attack - Right Winger,16,right,Union Berlin,2023-06-30,2020-07-01,think forward,
+275,Sheraldo Becker,,28,1.8,Suriname  Netherlands,Amsterdam,15.0,15.0,Attack - Second Striker,27,right,Union Berlin,2024-06-30,2019-07-01,Sports360 GmbH,
+276,Jamie Leweling,,22,1.84,Germany  Ghana,Nürnberg,3.5,4.5,Attack - Second Striker,40,both,Union Berlin,2026-06-30,2022-07-01,Sports eXcellence ...,Puma
+277,Jordan,,27,1.91,United States  France,"Washington, D. C.",9.0,10.0,Attack - Centre-Forward,45,right,Union Berlin,2026-06-30,2022-07-01,,
+278,Kevin Behrens,,32,1.85,Germany,Bremen,1.5,1.5,Attack - Centre-Forward,17,both,Union Berlin,2024-06-30,2021-07-01,B O K S,
+279,Sven Michel,,32,1.77,Germany,Freudenberg,1.2,1.25,Attack - Centre-Forward,11,left,Union Berlin,2024-06-30,2022-01-31,Karl M. Herzog ...,
+280,Rafal Gikiewicz,Rafał Gikiewicz,35,1.9,Poland,Olsztyn,1.2,1.5,Goalkeeper,1,right,FC Augsburg,2023-06-30,2020-07-01,Wasserman,adidas
+281,Tomas Koubek,Tomáš Koubek,30,1.97,Czech Republic,Hradec Králové,1.0,7.0,Goalkeeper,40,right,FC Augsburg,2024-06-30,2019-08-06,SPORT INVEST,
+282,Daniel Klein,,22,1.93,Germany,Heidelberg,0.3,0.3,Goalkeeper,25,right,FC Augsburg,2025-06-30,2021-07-02,Sport Business ...,
+283,Benjamin Leneis,,24,1.95,Germany,München,0.15,0.3,Goalkeeper,39,both,FC Augsburg,2023-06-30,2018-10-24,,
+284,Felix Uduokhai,Ohis Felix Uduokhai,25,1.92,Germany  Nigeria,Annaberg-Buchholz,10.0,16.0,Defender - Centre-Back,19,left,FC Augsburg,2024-06-30,2020-07-01,CN Sports,Nike
+285,Reece Oxford,Reece Joel Oxford,24,1.9,England  Jamaica,London,9.0,12.0,Defender - Centre-Back,4,right,FC Augsburg,2025-06-30,2019-08-02,CAA Base Ltd,
+286,Jeffrey Gouweleeuw,,31,1.87,Netherlands,Heemskerk,3.5,12.0,Defender - Centre-Back,6,right,FC Augsburg,2024-06-30,2016-01-09,SEG,Under Armour
+287,Maximilian Bauer,,23,1.89,Germany,Vilshofen,3.5,3.5,Defender - Centre-Back,23,right,FC Augsburg,2027-06-30,2022-07-01,Robert Schneider,
+288,Iago,,26,1.81,Brazil,Monte Azul Paulista,5.5,6.5,Defender - Left-Back,22,left,FC Augsburg,2024-06-30,2019-07-01,C.R,
+289,Mads Pedersen,Mads Giersing Valentin Pedersen,26,1.74,Denmark,Hørsholm,2.5,2.5,Defender - Left-Back,3,left,FC Augsburg,2024-06-30,2019-07-01,Nordic Sky,Nike
+290,David Colina,David Čolina,22,1.74,Croatia,Zagreb,1.5,1.5,Defender - Left-Back,38,left,FC Augsburg,2027-06-30,2023-01-14,P&P Sport ...,Nike
+291,Aaron Zehnter,,18,1.8,Germany,Sonderhofen,0.3,0.3,Defender - Left-Back,42,left,FC Augsburg,2024-06-30,2022-07-01,Karl M. Herzog ...,
+292,Robert Gumny,,24,1.82,Poland,Poznań,3.5,5.0,Defender - Right-Back,2,right,FC Augsburg,2025-06-30,2020-09-02,Fabryka Futbolu,Puma
+293,Niklas Dorsch,Niklas Bernd Dorsch,25,1.78,Germany,Lichtenfels,8.0,10.0,midfield - Defensive Midfield,30,right,FC Augsburg,2026-06-30,2021-07-08,CN Sports,
+294,Renato Veiga,Renato Palma Veiga,19,1.9,Portugal,Lisboa,1.0,1.0,midfield - Defensive Midfield,8,left,FC Augsburg,2023-06-30,2023-01-31,Mondo Victory,
+295,Tobias Strobl,,32,1.88,Germany,München,0.7,8.0,midfield - Defensive Midfield,5,right,FC Augsburg,2023-06-30,2020-07-01,CN Sports,
+296,Julian Baumgartlinger,,35,1.84,Austria,Salzburg,0.6,6.0,midfield - Defensive Midfield,14,right,FC Augsburg,2023-06-30,2022-08-16,PRO Profil GmbH,
+297,Arne Maier,,24,1.86,Germany,Ludwigsfelde,5.5,24.0,midfield - Central Midfield,10,right,FC Augsburg,2025-06-30,2022-07-01,11WINS,Puma
+298,Elvis Rexhbecaj,Elvis Rexhbeçaj,25,1.82,Germany  Kosovo,"Gjonaj, Prizren",3.5,8.0,midfield - Central Midfield,13,left,FC Augsburg,2026-06-30,2022-07-27,Soccertalk GmbH,
+299,Arne Engels,,19,1.85,Belgium,,3.5,3.5,midfield - Central Midfield,27,right,FC Augsburg,2027-06-30,2023-01-03,Wasserman,
+300,Fredrik Jensen,Hans Fredrik Jensen,25,1.83,Finland,Porvoo,2.5,3.0,midfield - Attacking Midfield,24,right,FC Augsburg,2025-06-30,2018-07-01,V4S,
+301,Mert Kömür,,17,1.83,Germany  Turkey,Dachau,,,midfield - Attacking Midfield,20,both,FC Augsburg U19,2027-06-30,2022-07-01,Agent is known - Player under 18,adidas
+302,Rubén Vargas,Rubén Estephan Vargas Martínez,24,1.79,Switzerland  Dominican Republic,Adligenswil,6.0,13.0,Attack - Left Winger,16,right,FC Augsburg,2025-06-30,2019-07-01,IFM,
+303,Nathanaël Mbuku,,21,1.7,France  DR Congo,Villeneuve-Saint-Georges,4.0,9.0,Attack - Left Winger,34,left,FC Augsburg,2027-06-30,2023-01-30,BS Group - BS Law,
+304,André Hahn,,32,1.85,Germany,Otterndorf,2.0,8.0,Attack - Right Winger,28,right,FC Augsburg,2023-06-30,2018-07-01,Sports360 GmbH,adidas
+305,Noah Joel Sarenren Bazee,,26,1.83,Germany  Nigeria,Celle,0.8,1.5,Attack - Right Winger,17,right,FC Augsburg,2024-06-30,2019-07-01,Rummenigge Sport ...,Puma
+306,Daniel Caligiuri,,35,1.82,Italy  Germany,Villingen-Schwenningen,0.6,7.5,Attack - Right Winger,20,right,FC Augsburg,2023-06-30,2020-07-01,Caligiuri Sports,
+307,Ermedin Demirovic,Ermedin Demirović,25,1.85,Bosnia-Herzegovina  Germany,Hamburg,12.0,12.0,Attack - Centre-Forward,9,right,FC Augsburg,2026-06-30,2022-07-08,PRO Profil GmbH,Nike
+308,Mergim Berisha,,25,1.88,Germany,Berchtesgaden,12.0,12.0,Attack - Centre-Forward,11,right,FC Augsburg,2023-06-30,2022-08-31,ROGON,adidas
+309,Dion Beljo,Dion Drena Beljo,21,1.95,Croatia,Zagreb,6.5,6.5,Attack - Centre-Forward,7,left,FC Augsburg,2027-06-30,2023-01-13,ROOF,
+310,Kelvin Yeboah,Kelvin Kwarteng Yeboah,23,1.85,Italy  Ghana,Accra,3.5,5.5,Attack - Centre-Forward,45,right,FC Augsburg,2023-06-30,2023-01-18,P&P Sport ...,
+311,Irvin Cardona,,25,1.85,France  Malta,Nîmes,2.5,8.0,Attack - Centre-Forward,48,right,FC Augsburg,2027-06-30,2023-01-18,Wasserman,
+312,Florian Müller,,25,1.9,Germany,Saarlouis,1.5,10.0,Goalkeeper,1,left,VfB Stuttgart,2025-06-30,2021-07-01,PRO Profil GmbH,
+313,Fabian Bredlow,,28,1.9,Germany,Berlin,1.5,1.5,Goalkeeper,33,both,VfB Stuttgart,2024-06-30,2019-07-01,SEG,
+314,Florian Schock,,21,2.0,Germany,Ostfildern,0.2,0.2,Goalkeeper,42,right,VfB Stuttgart,2024-06-30,2021-09-07,Relatives,
+315,Konstantinos Mavropanos,Κωνσταντίνος Μαυροπάνος,25,1.94,Greece,Athens,15.0,17.0,Defender - Centre-Back,5,right,VfB Stuttgart,2025-06-30,2022-07-01,Konstantinos Farras,
+316,Hiroki Ito,伊藤 洋輝,23,1.88,Japan,"Hamamatsu, Shizuoka",7.5,7.5,Defender - Centre-Back,21,left,VfB Stuttgart,2025-06-30,2022-07-01,Universal Sports ...,
+317,Waldemar Anton,Рипцов-Антон Владимир Александрович,26,1.89,Germany,Almalyk,4.5,15.0,Defender - Centre-Back,2,right,VfB Stuttgart,2025-06-30,2020-07-28,AKA Global GmbH,Puma
+318,Dan-Axel Zagadou,,23,1.96,France  Cote d'Ivoire,Créteil,3.5,35.0,Defender - Centre-Back,23,left,VfB Stuttgart,2026-06-30,2022-09-19,,
+319,Antonis Aidonis,,21,1.86,Germany  Greece,Neustadt an der Weinstraße,0.35,0.5,Defender - Centre-Back,37,right,VfB Stuttgart,2023-06-30,2020-07-24,MK Sport Consulting,Nike
+320,Borna Sosa,,25,1.87,Croatia  Germany,Zagreb,15.0,23.0,Defender - Left-Back,24,left,VfB Stuttgart,2025-06-30,2018-07-01,CAA Stellar,
+321,Josha Vagnoman,Josha Mamadou Karaboue Vagnoman,22,1.9,Germany  Cote d'Ivoire,Hamburg,5.0,5.0,Defender - Right-Back,4,right,VfB Stuttgart,2026-06-30,2022-07-09,FTC,adidas
+322,Pascal Stenzel,,27,1.83,Germany,Bünde,1.5,6.5,Defender - Right-Back,15,right,VfB Stuttgart,2024-06-30,2020-07-01,Unique Sports Group,
+323,Wataru Endo,遠藤 航,30,1.78,Japan,"Yokohama, Kanagawa",6.5,10.0,midfield - Defensive Midfield,3,right,VfB Stuttgart,2024-06-30,2020-07-01,Universal Sports ...,Puma
+324,Atakan Karazor,,26,1.91,Germany,Essen,4.5,4.5,midfield - Defensive Midfield,16,right,VfB Stuttgart,2026-06-30,2019-07-01,EMG Mundial,adidas
+325,Enzo Millot,,20,1.74,France  Martinique,Lucé,2.5,2.5,midfield - Central Midfield,8,left,VfB Stuttgart,2025-06-30,2021-08-14,Klan Soccer FZCO,
+326,Nikolas Nartey,Nikolas Terkelsen Nartey,23,1.85,Denmark  Ghana,"Bagsværd, Copenhagen",1.8,1.8,midfield - Central Midfield,28,left,VfB Stuttgart,2025-06-30,2019-08-29,Boutique Transfers,
+327,Genki Haraguchi,原口 元気,32,1.78,Japan,"Kumagaya, Saitama",2.0,4.5,midfield - Attacking Midfield,17,right,VfB Stuttgart,2024-06-30,2023-01-30,PRO Profil GmbH,Nike
+328,Lilian Egloff,,20,1.82,Germany,Heilbronn,1.5,1.5,midfield - Attacking Midfield,25,right,VfB Stuttgart,2024-06-30,2020-07-01,VIDA 11,
+329,Ömer Beyaz,Ömer Faruk Beyaz,19,1.71,Turkey,Istanbul,0.7,1.0,midfield - Attacking Midfield,30,left,VfB Stuttgart,2025-06-30,2021-07-01,M-Soccermanagement,Nike
+330,Laurin Ulrich,,18,1.8,Germany,Heidenheim an der Brenz,0.5,0.5,midfield - Attacking Midfield,36,right,VfB Stuttgart,2026-06-30,2022-07-01,Rummenigge Sport ...,Nike
+331,Silas,,24,1.89,DR Congo,Kinshasa,10.0,25.0,Attack - Right Winger,14,right,VfB Stuttgart,2026-06-30,2019-08-13,M-Soccermanagement,
+332,Chris Führich,,25,1.81,Germany,Castrop-Rauxel,4.0,4.0,Attack - Right Winger,22,right,VfB Stuttgart,2025-06-30,2021-07-19,KL Sportsbase,
+333,Tanguy Coulibaly,,22,1.78,France  Cote d'Ivoire,Sèvres,2.0,5.0,Attack - Right Winger,7,left,VfB Stuttgart,2023-06-30,2019-07-02,,
+334,Gil Dias,Gil Bastião Dias,26,1.86,Portugal,Gafanha da Nazaré,2.0,4.0,Attack - Right Winger,31,left,VfB Stuttgart,2025-06-30,2023-01-30,Ulisses Santos - ...,Nike
+335,Serhou Guirassy,Serhou Yadaly Guirassy,27,1.87,Guinea  France,Arles,10.0,15.0,Attack - Centre-Forward,9,right,VfB Stuttgart,2023-06-30,2022-09-01,Relatives,
+336,Tiago Tomás,Tiago Barreiros de Melo Tomás,20,1.8,Portugal,Cascais,7.0,7.0,Attack - Centre-Forward,10,right,VfB Stuttgart,2023-06-30,2022-01-30,Proeleven S.A.,
+337,Juan José Perea,Juan José Perea Mendoza,23,1.8,Colombia,Bogotá,2.4,2.4,Attack - Centre-Forward,11,right,VfB Stuttgart,2026-06-30,2022-07-08,Konstantinos Farras,adidas
+338,Luca Pfeiffer,,26,1.96,Germany,Bad Mergentheim,2.0,2.8,Attack - Centre-Forward,20,right,VfB Stuttgart,2026-06-30,2022-08-02,Haspel ...,
+339,Thomas Kastanaras,Θωμάς Καστανάρας,20,1.86,Germany  Greece,Stuttgart,0.7,0.7,Attack - Centre-Forward,39,,VfB Stuttgart,2025-06-30,2022-07-01,Unique Sports Group,Puma
+340,Alou Kuol,,21,1.81,Australia  Southern Sudan,Khartum,0.3,0.4,Attack - Centre-Forward,27,right,VfB Stuttgart,2025-06-30,2022-07-01,,
+341,Robin Zentner,,28,1.95,Germany,Rüdesheim am Rhein,5.0,5.0,Goalkeeper,27,right,1.FSV Mainz 05,2025-06-30,2014-07-01,W&K Fairplay,adidas
+342,Finn Dahmen,Finn Gilbert Dahmen,25,1.88,Germany  England,Wiesbaden,1.0,2.0,Goalkeeper,1,right,1.FSV Mainz 05,2023-06-30,2018-07-01,CN Sports,
+343,Lasse Rieß,Lasse Finn Rieß,21,1.91,Germany,Nieder-Olm,0.2,0.2,Goalkeeper,32,right,1.FSV Mainz 05,2025-06-30,2021-07-01,ROOF Talents,
+344,Maxim Leitsch,,24,1.89,Germany,Essen,3.5,5.0,Defender - Centre-Back,5,left,1.FSV Mainz 05,2026-06-30,2022-07-01,Sports360 GmbH,adidas
+345,Andreas Hanche-Olsen,Andreas Schjølberg Hanche-Olsen,26,1.85,Norway,Bodø,3.5,4.0,Defender - Centre-Back,25,right,1.FSV Mainz 05,2026-06-30,2023-01-13,Nordic Sky,
+346,Stefan Bell,,31,1.92,Germany,Andernach,2.5,6.0,Defender - Centre-Back,16,right,1.FSV Mainz 05,2024-06-30,2010-07-01,Haspel ...,adidas
+347,Alexander Hack,,29,1.93,Germany,Memmingen,2.5,3.0,Defender - Centre-Back,42,left,1.FSV Mainz 05,2024-06-30,2015-11-30,PRO Profil GmbH,
+348,Philipp Schulz,,17,1.88,Germany,,0.3,0.3,Defender - Centre-Back,45,right,1.FSV Mainz 05,2025-06-30,2022-07-01,Agent is known - Player under 18,
+349,Anthony Caci,,25,1.84,France,Forbach,8.5,8.5,Defender - Left-Back,19,right,1.FSV Mainz 05,2026-06-30,2022-07-01,W.Egal O.S.F.M.,
+350,Aarón Martín,Aarón Martín Caricol,26,1.8,Spain,Montmeló,7.0,20.0,Defender - Left-Back,3,left,1.FSV Mainz 05,2023-06-30,2019-07-01,BY AND FOR,
+351,Silvan Widmer,,30,1.83,Switzerland,Aarau,5.0,9.0,Defender - Right-Back,30,right,1.FSV Mainz 05,2026-06-30,2021-07-09,CAA Base Ltd,
+352,Danny da Costa,Danny Vieira da Costa,29,1.87,Germany  Angola,Neuss,2.0,15.0,Defender - Right-Back,21,right,1.FSV Mainz 05,2025-06-30,2022-07-01,Sports360 GmbH,Nike
+353,Anton Stach,,24,1.94,Germany,Buchholz in der Nordheide,15.0,15.0,midfield - Defensive Midfield,6,both,1.FSV Mainz 05,2024-06-30,2021-07-31,ROOF,
+354,Leandro Barreiro,Leandro Barreiro Martins,23,1.74,Luxembourg  Portugal,Erpeldingen,10.0,11.0,midfield - Central Midfield,8,right,1.FSV Mainz 05,2024-06-30,2018-07-01,CAA Stellar,
+355,Dominik Kohr,,29,1.83,Germany,Trier,4.0,8.5,midfield - Central Midfield,31,right,1.FSV Mainz 05,2026-06-30,2022-07-01,Sports360 GmbH,adidas
+356,Edimilson Fernandes,Edimilson Fernandes Ribeiro,27,1.9,Switzerland  Portugal,Sion,3.0,8.0,midfield - Central Midfield,20,right,1.FSV Mainz 05,2026-06-30,2019-07-01,IFM,
+357,Aymen Barkok,أيمن بركوك,24,1.89,Morocco  Germany,Frankfurt am Main,1.5,3.5,midfield - Central Midfield,4,right,1.FSV Mainz 05,2025-06-30,2022-07-01,Sports eXcellence ...,
+358,Eniss Shabani,,19,1.8,Germany  Kosovo,Gießen,0.2,0.2,midfield - Central Midfield,41,right,1.FSV Mainz 05,2025-06-30,2022-07-01,ASBW Sport Marketing,
+359,Jae-sung Lee,이재성,30,1.8,"Korea, South",Ulsan,4.0,4.0,midfield - Attacking Midfield,7,left,1.FSV Mainz 05,2024-06-30,2021-07-08,Unique Sports Group,
+360,Delano Burgzorg,,24,1.86,Netherlands  Suriname,Amsterdam,2.0,2.0,Attack - Left Winger,37,right,1.FSV Mainz 05,2025-06-30,2022-07-01,PURE,Puma
+361,Brajan Gruda,,18,1.78,Germany  Albania,Speyer,0.5,0.5,Attack - Right Winger,43,left,1.FSV Mainz 05,2026-06-30,2022-11-18,Robert Schneider,adidas
+362,Jonathan Burkardt,Jonathan Michael Burkardt,22,1.83,Germany,Darmstadt,12.0,17.0,Attack - Centre-Forward,29,right,1.FSV Mainz 05,2024-06-30,2018-07-01,PRO Profil GmbH,
+363,Ludovic Ajorque,,29,1.96,France  Réunion,Saint-Denis,9.0,16.0,Attack - Centre-Forward,17,left,1.FSV Mainz 05,2026-06-30,2023-01-24,Léandre Chouya,
+364,Marcus Ingvartsen,Marcus Højriis Ingvartsen,27,1.87,Denmark,Farum,4.5,4.5,Attack - Centre-Forward,11,left,1.FSV Mainz 05,2025-06-30,2022-07-01,People In Sport,
+365,Karim Onisiwo,,31,1.88,Austria,Wien,3.5,4.5,Attack - Centre-Forward,9,right,1.FSV Mainz 05,2024-06-30,2016-01-05,ROOF,
+366,Nelson Weiper,Nelson Felix Patrick Weiper,18,1.92,Germany  Albania,Mainz,2.5,2.5,Attack - Centre-Forward,44,right,1.FSV Mainz 05,2025-06-30,2022-07-01,ASBW Sport Marketing,
+367,Marlon Mustapha,Suliman-Marlon Mustapha,21,1.85,Austria,Wien,1.0,1.0,Attack - Centre-Forward,36,right,1.FSV Mainz 05,2024-06-30,2020-07-01,MD Sports,Puma
+368,Marvin Schwäbe,,28,1.9,Germany,Dieburg,5.0,5.0,Goalkeeper,20,right,1.FC Köln,2024-06-30,2021-07-01,CN Sports,adidas
+369,Timo Horn,,29,1.92,Germany,Köln,1.5,12.0,Goalkeeper,1,left,1.FC Köln,2023-06-30,2011-07-01,Sports360 GmbH,Puma
+370,Julian Roloff,,22,1.92,Germany,Grevenbroich,0.1,0.1,Goalkeeper,1,right,1.FC Köln II,2024-06-30,2023-01-15,DC International ...,Stanno
+371,Matthias Köbbing,,25,1.96,Germany,Koblenz,0.025,0.1,Goalkeeper,44,both,1.FC Köln,2025-06-30,2022-03-08,Haspel ...,
+372,Timo Hübers,Timo Bernd Hübers,26,1.9,Germany,Hildesheim,7.5,7.5,Defender - Centre-Back,4,right,1.FC Köln,2024-06-30,2021-07-01,Timo Hübers,
+373,Luca Kilian,Luca Jannis Kilian,23,1.92,Germany,Witten,4.5,4.5,Defender - Centre-Back,15,right,1.FC Köln,2025-06-30,2022-07-01,LK Management,
+374,Julian Chabot,Julian Jeffrey Gaston Chabot,25,1.95,Germany  France,Hanau,3.5,3.5,Defender - Centre-Back,24,left,1.FC Köln,2023-06-30,2022-01-26,PRO Profil GmbH,
+375,Nikola Soldo,,22,1.89,Croatia,Stuttgart,1.5,1.8,Defender - Centre-Back,5,right,1.FC Köln,2025-06-30,2022-09-01,P&P Sport ...,
+376,Rijad Smajic,,19,1.9,Bosnia-Herzegovina  Germany,Köln,0.2,0.2,Defender - Centre-Back,19,,1.FC Köln II,2025-06-30,2022-01-01,OLP Sports,
+377,Elias Bakatukanda,Elias-Geoffrey Bakatukanda,19,1.93,Germany  DR Congo,Köln,,,Defender - Centre-Back,5,both,1.FC Köln U19,2026-06-30,2021-07-01,FM Worldsport,
+378,Jonas Hector,,32,1.85,Germany,Saarbrücken,3.5,20.0,Defender - Left-Back,14,left,1.FC Köln,2023-06-30,2012-07-01,act SPORTS GROUP,adidas
+379,Kristian Pedersen,Kristian Majdahl Pedersen,28,1.89,Denmark,Ringsted,1.5,5.0,Defender - Left-Back,3,left,1.FC Köln,2024-06-30,2022-07-01,Boutique Transfers,
+380,Benno Schmitz,,28,1.82,Germany,München,3.0,3.0,Defender - Right-Back,2,right,1.FC Köln,2024-06-30,2018-07-01,Kögl & Partner GmbH,
+381,Ellyes Skhiri,إلياس صخيري,28,1.85,Tunisia  France,Lunel,13.0,13.0,midfield - Defensive Midfield,28,right,1.FC Köln,2023-06-30,2019-07-29,CAA Stellar,
+382,Dejan Ljubicic,,25,1.87,Austria,Wien,10.0,10.0,midfield - Defensive Midfield,7,right,1.FC Köln,2025-06-30,2021-07-01,Dirk Hebel,
+383,Eric Martel,,21,1.88,Germany,Straubing,6.5,6.5,midfield - Defensive Midfield,6,right,1.FC Köln,2026-06-30,2022-07-01,NGM SPORTS,
+384,Georg Strauch,,22,1.77,Germany,Bonn,0.2,0.2,midfield - Defensive Midfield,17,right,1.FC Köln II,2024-06-30,2020-07-01,Teamgeist ...,
+385,Denis Huseinbasic,Denis Huseinbašić,21,1.84,Germany  Bosnia-Herzegovina,Erbach (Odenwald),5.0,5.0,midfield - Central Midfield,8,right,1.FC Köln,2025-06-30,2022-07-01,ProfiSports Prskalo,Puma
+386,Mathias Olesen,Mathias Flaga Olesen,22,1.88,Luxembourg  Denmark,Kopenhagen,1.2,1.2,midfield - Central Midfield,47,both,1.FC Köln,2025-06-30,2022-02-04,PESM,
+387,Joshua Schwirten,,21,1.82,Germany,Bergisch Gladbach,0.2,0.2,midfield - Central Midfield,10,both,1.FC Köln II,2023-06-30,2021-07-01,CS,
+388,Kingsley Schindler,,29,1.83,Ghana  Germany,Hamburg,1.0,3.0,midfield - Right Midfield,17,right,1.FC Köln,2023-06-30,2019-07-01,11WINS,
+389,Florian Kainz,,30,1.76,Austria,Graz,4.0,4.5,Attack - Left Winger,11,both,1.FC Köln,2025-06-30,2019-01-18,YOU FIRST,
+390,Jan Thielmann,Jan Uwe Thielmann,20,1.78,Germany,Föhren,7.5,9.0,Attack - Right Winger,29,right,1.FC Köln,2024-06-30,2020-01-17,Relatives,
+391,Linton Maina,,23,1.8,Germany  Kenya,Berlin,4.5,9.0,Attack - Right Winger,37,right,1.FC Köln,2025-06-30,2022-07-01,ROOF,
+392,Dimitrios Limnios,Δημήτριος Λημνιός,24,1.78,Greece  Brazil,Volos,2.0,4.5,Attack - Right Winger,19,right,1.FC Köln,2024-06-30,2020-09-21,LIAN Sports Group,
+393,Steffen Tigges,,24,1.94,Germany,Osnabrück,3.5,3.5,Attack - Centre-Forward,21,left,1.FC Köln,2026-06-30,2022-07-01,GOOD ADVICE Sports ...,adidas
+394,Mark Uth,Mark-Alexander Uth,31,1.85,Germany,Köln,3.0,23.0,Attack - Centre-Forward,13,left,1.FC Köln,2025-06-30,2021-07-01,Sports360 GmbH,
+395,Sargis Adamyan,Սարգիս Ադամյան,29,1.84,Armenia,Yerevan,2.0,5.0,Attack - Centre-Forward,23,right,1.FC Köln,2026-06-30,2022-07-05,Karl M. Herzog ...,
+396,Tim Lemperle,,21,1.89,Germany,Frankfurt am Main,2.0,2.0,Attack - Centre-Forward,25,right,1.FC Köln,2025-06-30,2020-07-01,ROGON,Nike
+397,Davie Selke,,28,1.95,Germany,Schorndorf,1.8,20.0,Attack - Centre-Forward,27,right,1.FC Köln,2024-06-30,2023-01-02,Sports eXcellence ...,Puma
+398,Sebastian Andersson,Martin Sebastian Andersson,31,1.9,Sweden,Ängelholm,1.0,7.0,Attack - Centre-Forward,9,right,1.FC Köln,2023-06-30,2020-09-15,People In Sport,
+399,Florian Dietz,,24,1.9,Germany,Bad Neustadt an der Saale,1.0,1.0,Attack - Centre-Forward,33,right,1.FC Köln,2025-06-30,2022-07-01,ROOF,
+400,Maximilian Schmid,,20,1.84,Germany,Hanau,0.2,0.2,Attack - Centre-Forward,9,right,1.FC Köln II,2024-06-30,2022-07-01,ROGON U23,Nike
+401,Oliver Christensen,,24,1.9,Denmark,Kerteminde,4.5,4.5,Goalkeeper,1,right,Hertha BSC,2026-06-30,2021-08-26,Boutique Transfers,
+402,Tjark Ernst,,20,1.93,Germany,Stuttgart,0.4,0.4,Goalkeeper,12,both,Hertha BSC,2026-06-30,2022-09-01,BMS Sportconsulting ...,
+403,Rune Jarstein,Rune Almenning Jarstein,38,1.92,Norway,Porsgrunn,0.3,2.5,Goalkeeper,22,right,Hertha BSC,2023-06-30,2014-01-01,Golden Patch ...,
+404,Marc Oliver Kempf,,28,1.86,Germany,Lich,4.5,8.0,Defender - Centre-Back,20,left,Hertha BSC,2026-06-30,2022-01-25,Sports360 GmbH,
+405,Márton Dárdai,,21,1.88,Germany  Hungary,Berlin,4.0,6.0,Defender - Centre-Back,31,left,Hertha BSC,2025-06-30,2020-07-01,PRO Profil GmbH,Nike
+406,Agustín Rogel,Agustín Maximiliano Rogel Paita,25,1.91,Uruguay  Italy,Montevideo,3.0,4.5,Defender - Centre-Back,3,right,Hertha BSC,2026-06-30,2022-08-31,Ariel Krasouski,
+407,Filip Uremovic,Filip Uremović,26,1.84,Croatia,Požega,2.0,7.0,Defender - Centre-Back,5,right,Hertha BSC,2026-06-30,2022-07-01,Ivan Bosnjak,adidas
+408,Maximilian Mittelstädt,,26,1.8,Germany,Berlin,2.0,14.0,Defender - Left-Back,17,left,Hertha BSC,2027-06-30,2015-08-19,Sports360 GmbH,Nike
+409,Marvin Plattenhardt,,31,1.81,Germany,Filderstadt,2.0,17.0,Defender - Left-Back,21,left,Hertha BSC,2023-06-30,2014-07-01,Briem Soccer ...,Nike
+410,Lukas Ullrich,,19,1.8,Germany,Berlin,0.75,0.75,Defender - Left-Back,26,left,Hertha BSC II,2023-06-30,2022-07-01,SEG,Puma
+411,Jonjoe Kenny,,26,1.76,England,Liverpool,4.0,12.0,Defender - Right-Back,16,right,Hertha BSC,2025-06-30,2022-07-01,11WINS,
+412,Peter Pekarik,Peter Pekarík,36,1.77,Slovakia,Žilina,0.5,3.5,Defender - Right-Back,2,right,Hertha BSC,2023-06-30,2012-08-31,ROGON,
+413,Julian Eitschberger,,19,1.79,Germany,Hohen Neuendorf,0.35,0.35,Defender - Right-Back,42,right,Hertha BSC,2026-06-30,2022-07-01,B360 Sports,
+414,Lucas Tousart,,26,1.85,France,Arras,11.0,25.0,midfield - Defensive Midfield,29,right,Hertha BSC,2025-06-30,2020-01-27,Hexagon,
+415,Ivan Sunjic,Ivan Šunjić,26,1.85,Croatia,Zenica,4.0,6.0,midfield - Defensive Midfield,34,right,Hertha BSC,2023-06-30,2022-07-05,Soccertalk GmbH,
+416,Tolga Cigerci,Tolga Ciğerci,31,1.85,Turkey  Germany,Nordenham,1.5,4.5,midfield - Defensive Midfield,6,right,Hertha BSC,2024-06-30,2023-01-31,ROGON,
+417,Suat Serdar,,26,1.84,Germany  Turkey,Bingen,6.5,25.0,midfield - Central Midfield,8,right,Hertha BSC,2026-06-30,2021-07-01,Sports360 GmbH,
+418,Jean-Paul Boëtius,Jean-Paul Patrick Boëtius,29,1.78,Netherlands  Suriname,Rotterdam,2.0,6.0,midfield - Attacking Midfield,10,right,Hertha BSC,2025-06-30,2022-08-08,CAA Stellar,
+419,Kevin-Prince Boateng,,36,1.86,Ghana  Germany,Berlin,0.7,23.0,midfield - Attacking Midfield,27,right,Hertha BSC,2023-06-30,2021-07-01,Excellence Sport,Puma
+420,Chidera Ejuke,,25,1.76,Nigeria,Zaria,7.5,9.0,Attack - Left Winger,40,right,Hertha BSC,2023-06-30,2022-07-13,Aneke/PMG,Nike
+421,Dodi Lukébakio,Dodi Lukébakio Ngandoli,25,1.87,Belgium  DR Congo,Brussels,12.0,21.0,Attack - Right Winger,14,left,Hertha BSC,2024-06-30,2019-08-01,BoostMySport,Nike
+422,Marco Richter,,25,1.76,Germany,Friedberg,6.0,10.0,Attack - Right Winger,23,right,Hertha BSC,2025-06-30,2021-08-09,Sports360 GmbH,Nike
+423,Kelian Nsona,Kelian Nsona Wa Saka,21,1.89,France  DR Congo,Ivry-sur-Seine,1.2,1.2,Attack - Right Winger,28,right,Hertha BSC,2026-06-30,2022-01-31,ROGON,
+424,Jessic Ngankam,Jessic Gaïtan Ngankam,22,1.84,Germany  Cameroon,Berlin,3.5,3.5,Attack - Centre-Forward,24,right,Hertha BSC,2025-06-30,2022-07-02,Sports360 GmbH,
+425,Wilfried Kanga,Wilfried Kanga Aka,25,1.89,Cote d'Ivoire  France,Montreuil-sous-Bois,3.0,4.0,Attack - Centre-Forward,18,right,Hertha BSC,2026-06-30,2022-07-30,Lasana KOITA,
+426,Florian Niederlechner,,32,1.87,Germany,Ebersberg,2.2,10.0,Attack - Centre-Forward,7,right,Hertha BSC,2025-06-30,2023-01-18,Haspel ...,
+427,Stevan Jovetic,Cтeвaн Joвeтић,33,1.83,Montenegro  Serbia,Titograd,2.0,30.0,Attack - Centre-Forward,19,right,Hertha BSC,2023-06-30,2021-07-27,LIAN Sports Group,
+428,Derry Scherhant,Derry Lionel Scherhant,20,1.85,Germany,Berlin,0.7,0.7,Attack - Centre-Forward,39,right,Hertha BSC,2025-06-30,2022-07-01,Sports eXcellence ...,
+429,Ibrahim Maza,,17,1.77,Germany  Algeria,Berlin,0.25,0.25,Attack - Centre-Forward,10,right,Hertha BSC U19,2026-06-30,2022-07-01,Agent is known - Player under 18,
+430,Jiri Pavlenka,Jiří Pavlenka,31,1.96,Czech Republic,Hlučín,3.0,12.0,Goalkeeper,1,right,Werder Bremen,2025-06-30,2017-07-01,SPORT INVEST,
+431,Michael Zetterer,,27,1.87,Germany,München,0.5,0.8,Goalkeeper,30,both,Werder Bremen,,2015-01-27,EMG Mundial,
+432,Mio Backhaus,,19,1.94,Germany,Mönchengladbach,0.3,0.3,Goalkeeper,1,right,W. Bremen U19,,2021-07-01,feel soccer GmbH,
+433,Dudu,,24,1.96,Germany  Brazil,Duisburg,0.2,0.3,Goalkeeper,38,right,Werder Bremen,2024-06-30,2020-07-01,DC International ...,Puma
+434,Louis Lord,,19,1.9,Germany,Vechta,0.15,0.15,Goalkeeper,1,,W. Bremen II,,2021-07-01,CAA Stellar,
+435,Marco Friedl,,25,1.87,Austria,Kirchbichl,6.5,7.5,Defender - Centre-Back,32,left,Werder Bremen,2026-06-30,2019-07-01,YOU FIRST,
+436,Amos Pieper,,25,1.92,Germany,Lüdinghausen,6.0,7.0,Defender - Centre-Back,5,right,Werder Bremen,2026-06-30,2022-07-01,Sports360 GmbH,
+437,Niklas Stark,,28,1.9,Germany,Neustadt an der Aisch,5.5,20.0,Defender - Centre-Back,4,right,Werder Bremen,2026-06-30,2022-07-01,Sports360 GmbH,adidas
+438,Milos Veljkovic,Милош Вељковић,27,1.88,Serbia  Switzerland,Basel,5.0,12.0,Defender - Centre-Back,13,right,Werder Bremen,2025-06-30,2016-02-01,LIAN Sports Group,
+439,Fabio Chiarodia,Fabio Cristian Chiarodia,17,1.86,Italy  Germany,Oldenburg,1.0,1.0,Defender - Centre-Back,39,left,Werder Bremen,2024-06-30,2021-10-07,,
+440,Lee Buchanan,Lee David Buchanan,22,1.79,England,Mansfield,3.5,3.5,Defender - Left-Back,26,left,Werder Bremen,2026-06-30,2022-07-04,Quantum Sport,
+441,Anthony Jung,,31,1.86,Germany  Spain,Villajoyosa,1.5,1.5,Defender - Left-Back,3,left,Werder Bremen,2024-06-30,2021-07-01,CAA Stellar,
+442,Mitchell Weiser,Mitchell-Elijah Weiser,29,1.77,Germany  Algeria,Troisdorf,5.5,14.0,Defender - Right-Back,8,right,Werder Bremen,2024-06-30,2022-07-15,ROOF,
+443,Felix Agu,,23,1.8,Germany  Nigeria,Osnabrück,1.0,2.5,Defender - Right-Back,27,right,Werder Bremen,2024-06-30,2020-07-01,TDS SPORTS,
+444,Ilia Gruev,Илия Илиев Груев,23,1.85,Bulgaria  Germany,Sofia,3.0,3.0,midfield - Defensive Midfield,28,left,Werder Bremen,2025-06-30,2019-07-01,feel soccer GmbH,
+445,Christian Groß,,34,1.82,Germany,Bremen,0.5,0.5,midfield - Defensive Midfield,36,both,Werder Bremen,2024-06-30,2020-08-01,DLT Sports Group,
+446,Dikeni Salifou,Dikeni-Rafid Salifou,19,1.91,Togo  Germany,München,0.2,0.2,midfield - Defensive Midfield,19,right,Werder Bremen,,2022-07-01,Karl M. Herzog ...,
+447,Jens Stage,Jens Dalsgaard Stage,26,1.87,Denmark,Højbjerg,3.5,4.0,midfield - Central Midfield,6,right,Werder Bremen,2026-06-30,2022-07-01,CMA Group,Puma
+448,Jean Manuel Mbom,,23,1.85,Germany  Cameroon,Göttingen,1.0,3.0,midfield - Central Midfield,34,right,Werder Bremen,,2018-07-01,ROOF,adidas
+449,Romano Schmid,,23,1.68,Austria,Graz,4.5,5.0,midfield - Attacking Midfield,20,right,Werder Bremen,2025-06-30,2019-01-03,YOU FIRST,adidas
+450,Leonardo Bittencourt,Leonardo Jesus Loureiro Bittencourt,29,1.71,Germany  Brazil,Leipzig,3.5,7.0,midfield - Attacking Midfield,10,right,Werder Bremen,,2020-07-15,feel soccer GmbH,adidas
+451,Niklas Schmidt,Niklas Uwe Schmidt,25,1.84,Germany,Kassel,2.5,2.5,midfield - Attacking Midfield,22,both,Werder Bremen,2025-06-30,2017-07-01,SEG,Nike
+452,Maximilian Philipp,Maximilian Marcus Philipp,29,1.83,Germany,Berlin,2.0,20.0,Attack - Second Striker,17,right,Werder Bremen,2023-06-30,2023-01-30,Unique Sports Group,
+453,Niclas Füllkrug,,30,1.89,Germany,Hannover,13.0,15.0,Attack - Centre-Forward,11,right,Werder Bremen,2025-06-30,2019-07-01,ROOF,
+454,Marvin Ducksch,,29,1.88,Germany,Dortmund,6.5,6.5,Attack - Centre-Forward,7,right,Werder Bremen,2024-06-30,2021-08-25,EMG Mundial,
+455,Eren Dinkci,Eren Sami Dinkçi,21,1.88,Germany  Turkey,Bremen,0.7,0.7,Attack - Centre-Forward,21,right,Werder Bremen,2025-06-30,2021-01-01,EMG Mundial,
+456,Alexander Schwolow,,30,1.9,Germany,Wiesbaden,0.9,9.0,Goalkeeper,13,right,FC Schalke 04,2023-06-30,2022-07-01,feel soccer GmbH,
+457,Ralf Fährmann,Ralf Sebastian Fährmann,34,1.97,Germany,Karl-Marx-Stadt,0.4,13.0,Goalkeeper,1,right,FC Schalke 04,2025-06-30,2011-07-01,Siebert & Backs,adidas
+458,Justin Heekeren,,22,1.96,Germany,Veen,0.25,0.25,Goalkeeper,28,both,FC Schalke 04,2025-06-30,2022-07-01,ROYAL,
+459,Michael Langer,,38,1.95,Austria,Bregenz,0.05,0.75,Goalkeeper,34,right,FC Schalke 04,2023-06-30,2017-08-04,PESM,
+460,Moritz Jenz,,24,1.9,Germany,Berlin,5.5,5.5,Defender - Centre-Back,25,right,FC Schalke 04,2023-06-30,2023-01-26,Sports360 GmbH,
+461,Sepp van den Berg,,21,1.92,Netherlands,Zwolle,5.0,5.0,Defender - Centre-Back,5,right,FC Schalke 04,2023-06-30,2022-08-30,Key United,
+462,Leo Greiml,,21,1.87,Austria,Horn,1.5,2.5,Defender - Centre-Back,3,right,FC Schalke 04,2025-06-30,2022-07-01,YOU FIRST,
+463,Maya Yoshida,吉田 麻也,34,1.89,Japan,"Nagasaki, Nagasaki",1.5,7.0,Defender - Centre-Back,4,right,FC Schalke 04,2023-06-30,2022-07-05,CAA Base Ltd,Mizuno
+464,Marcin Kaminski,Marcin Kamiński,31,1.92,Poland,Konin,1.0,3.5,Defender - Centre-Back,35,left,FC Schalke 04,2023-06-30,2021-07-01,Wojciech Zlobicki,
+465,Henning Matriciani,,23,1.87,Germany,Lippstadt,1.0,1.0,Defender - Centre-Back,41,right,FC Schalke 04,2024-06-30,2021-09-28,TPWE GmbH,adidas
+466,Timothée Kolodziejczak,Timothée Christian Kolodziejczak,31,1.83,France  Poland,Avion,0.7,7.0,Defender - Centre-Back,15,left,FC Schalke 04,2023-06-30,2022-10-21,,
+467,Ibrahima Cissé,,22,1.96,Mali  France,Dreux,0.2,0.2,Defender - Centre-Back,22,right,FC Schalke 04,2026-06-30,2022-07-01,,
+468,Thomas Ouwejan,,26,1.83,Netherlands,Alkmaar,2.5,3.0,Defender - Left-Back,2,left,FC Schalke 04,2024-06-30,2022-07-01,CAA Stellar,
+469,Jere Uronen,Jere Juhani Uronen,28,1.77,Finland,Turku,1.0,3.5,Defender - Left-Back,18,left,FC Schalke 04,2023-06-30,2023-01-07,NGA Sport,
+470,Cédric Brunner,,29,1.8,Switzerland,Zollikon,2.5,3.2,Defender - Right-Back,27,right,FC Schalke 04,2024-06-30,2022-07-07,ROOF,Nike
+471,Mehmet Aydin,Mehmet Can Aydin,21,1.8,Turkey  Germany,Würselen,2.0,2.0,Defender - Right-Back,23,right,FC Schalke 04,2025-06-30,2021-07-01,KIN Partners,
+472,Alex Kral,Alex Král,24,1.86,Czech Republic  Slovakia,Košice,5.5,10.0,midfield - Defensive Midfield,30,right,FC Schalke 04,2023-06-30,2022-07-14,K2K Sports ...,Nike
+473,Éder Balanta,Éder Fabián Álvarez Balanta,30,1.8,Colombia,Bogotá,3.0,6.5,midfield - Defensive Midfield,33,left,FC Schalke 04,2023-06-30,2023-01-31,no agent,
+474,Niklas Tauer,,22,1.83,Germany,Mainz,1.5,1.5,midfield - Defensive Midfield,21,right,FC Schalke 04,2024-06-30,2023-01-01,PRO Profil GmbH,adidas
+475,Tom Krauß,,21,1.82,Germany,Leipzig,6.0,6.0,midfield - Central Midfield,6,right,FC Schalke 04,2023-06-30,2022-07-01,ROOF,adidas
+476,Danny Latza,,33,1.79,Germany,Gelsenkirchen,0.6,5.0,midfield - Central Midfield,8,right,FC Schalke 04,2024-06-30,2021-07-01,feel soccer GmbH,
+477,Soichiro Kozuki,上月 壮一郎,22,1.8,Japan,"Uji, Kyoto",0.6,0.6,midfield - Right Midfield,38,right,FC Schalke 04,2025-06-30,2023-01-01,PRO Profil GmbH,
+478,Tobias Mohr,,27,1.83,Germany,Aachen,1.8,1.8,midfield - Left Midfield,29,left,FC Schalke 04,2025-06-30,2022-07-01,KL Sportsbase,
+479,Rodrigo Zalazar,Rodrigo Zalazar Martínez,23,1.78,Uruguay  Spain,Albacete,3.5,3.5,midfield - Attacking Midfield,10,right,FC Schalke 04,2026-06-30,2022-07-01,CAA Stellar,
+480,Dominick Drexler,,32,1.83,Germany,Bonn,0.9,4.0,midfield - Attacking Midfield,24,right,FC Schalke 04,2024-06-30,2021-07-21,11WINS,
+481,Marius Bülter,,30,1.88,Germany,Ibbenbüren,2.5,3.0,Attack - Left Winger,11,right,FC Schalke 04,2024-06-30,2021-07-01,TPWE GmbH,adidas
+482,Tim Skarke,,26,1.81,Germany,Heidenheim an der Brenz,1.0,1.0,Attack - Right Winger,20,right,FC Schalke 04,2023-06-30,2023-01-23,Unique Sports Group,
+483,Michael Frey,,28,1.88,Switzerland,Münsingen,3.0,5.0,Attack - Centre-Forward,26,right,FC Schalke 04,2023-06-30,2023-01-20,Soccer Mondial AG,Puma
+484,Sebastian Polter,,32,1.92,Germany,Wilhelmshaven,1.7,2.25,Attack - Centre-Forward,40,right,FC Schalke 04,2025-06-30,2022-07-01,PRO Profil GmbH,
+485,Kenan Karaman,,29,1.89,Turkey  Germany,Stuttgart,1.4,3.5,Attack - Centre-Forward,19,right,FC Schalke 04,2025-06-30,2022-09-01,EMG Mundial,adidas
+486,Simon Terodde,,35,1.92,Germany,Bocholt,1.0,4.0,Attack - Centre-Forward,9,right,FC Schalke 04,2023-06-30,2021-07-01,Sports360 GmbH,Puma
+487,Manuel Riemann,Manuel Riemann-Lorenzen,34,1.86,Germany,Mühldorf am Inn,1.2,1.2,Goalkeeper,1,right,VfL Bochum,2025-06-30,2015-07-01,ROOF,
+488,Marko Johansson,,24,1.94,Sweden  Serbia,Malmö,0.5,0.9,Goalkeeper,26,right,VfL Bochum,2023-06-30,2022-09-01,BMS Sportconsulting ...,
+489,Michael Esser,,35,1.98,Germany,Castrop-Rauxel,0.4,2.0,Goalkeeper,21,right,VfL Bochum,2024-06-30,2021-07-01,Robert Schneider,
+490,Paul Grave,,22,1.93,Germany,Borken,0.1,0.1,Goalkeeper,34,right,VfL Bochum,,2019-03-02,FG Sports GmbH,
+491,Erhan Masovic,Ерхан Машовић,24,1.89,Serbia,Novi Pazar,5.0,5.0,Defender - Centre-Back,4,both,VfL Bochum,2025-06-30,2020-10-05,Relatives,
+492,Ivan Ordets,Ордець Іван Миколайович,30,1.95,Ukraine,"Blyzhnye, Donetsk Oblast",3.5,5.0,Defender - Centre-Back,20,right,VfL Bochum,2023-06-30,2022-07-10,Murza Eduard,
+493,Keven Schlotterbeck,,26,1.89,Germany,Weinstadt,3.0,7.5,Defender - Centre-Back,31,left,VfL Bochum,2023-06-30,2023-01-02,Robert Schneider,
+494,Dominique Heintz,,29,1.88,Germany,Neustadt an der Weinstraße,1.5,10.0,Defender - Centre-Back,30,left,VfL Bochum,2023-06-30,2022-08-11,Sports360 GmbH,
+495,Vasilios Lampropoulos,Βασίλειος Λαμπρόπουλος,33,1.85,Greece,Pyrgos,0.5,1.0,Defender - Centre-Back,24,right,VfL Bochum,2023-06-30,2020-08-14,WoS,
+496,Mohammed Tolba,محمد طلبه,18,1.85,Germany  Egypt,Essen,0.2,0.2,Defender - Centre-Back,25,right,VfL Bochum,2025-06-30,2022-07-01,Wasserman,
+497,Danilo Soares,Danilo Teodoro Soares,31,1.7,Brazil,Belo Horizonte,2.2,2.2,Defender - Left-Back,3,left,VfL Bochum,2024-06-30,2017-07-01,TDL Sports ...,
+498,Konstantinos Stafylidis,Κωνσταντίνος Σταφυλίδης,29,1.78,Greece,Thessaloniki,1.8,4.5,Defender - Left-Back,16,left,VfL Bochum,2023-06-30,2022-07-06,ROGON,
+499,Jordi Osei-Tutu,Jordi Martin Emmanuel Osei-Tutu,24,1.76,England  Ghana,Slough,1.5,1.5,Defender - Right-Back,18,right,VfL Bochum,2025-06-30,2022-07-01,Unique Sports Group,
+500,Saidy Janko,,27,1.81,The Gambia  Switzerland,Zürich,1.0,3.0,Defender - Right-Back,23,right,VfL Bochum,2023-06-30,2022-07-01,Signature - ISCM AG,
+501,Cristian Gamboa,Cristian Esteban Gamboa Luna,33,1.75,Costa Rica,Liberia,0.7,2.0,Defender - Right-Back,2,right,VfL Bochum,2024-06-30,2019-08-27,Wasserman,
+502,Jacek Goralski,Jacek Góralski,30,1.72,Poland,Bydgoszcz,1.0,3.0,midfield - Defensive Midfield,5,right,VfL Bochum,2024-06-30,2022-07-01,UNIDOS,
+503,Anthony Losilla,,37,1.85,France,Firminy,0.5,0.9,midfield - Defensive Midfield,8,right,VfL Bochum,2024-06-30,2014-07-01,Soccertalk GmbH,
+504,Patrick Osterhage,,23,1.86,Germany,Göttingen,2.0,2.0,midfield - Central Midfield,6,left,VfL Bochum,2026-06-30,2021-07-01,H.S.P. ...,Nike
+505,Pierre Kunde,Pierre Kunde Malong,27,1.8,Cameroon,Limbé,2.0,10.0,midfield - Central Midfield,28,right,VfL Bochum,2023-06-30,2023-01-06,IS SPORTS AGENCY ...,
+506,Kevin Stöger,,29,1.75,Austria,Steyr,2.5,6.0,midfield - Attacking Midfield,7,left,VfL Bochum,2024-06-30,2022-07-01,Relatives,
+507,Philipp Förster,,28,1.88,Germany,Bretten,2.5,3.5,midfield - Attacking Midfield,10,left,VfL Bochum,2024-06-30,2022-07-01,ROOF,
+508,Gerrit Holtmann,,28,1.85,Philippines  Germany,Bremen,3.5,4.5,Attack - Left Winger,17,left,VfL Bochum,2025-06-30,2020-08-24,Relatives,
+509,Christopher Antwi-Adjei,,29,1.74,Ghana  Germany,Hagen,1.8,2.0,Attack - Left Winger,22,right,VfL Bochum,2024-06-30,2021-07-01,Kay Sports ...,
+510,Takuma Asano,浅野 拓磨,28,1.73,Japan,"Komono, Mie",4.0,4.0,Attack - Right Winger,11,right,VfL Bochum,2024-06-30,2021-07-01,JEB ENTERTAINMENT ...,adidas
+511,Philipp Hofmann,,30,1.95,Germany,Arnsberg,2.5,2.5,Attack - Centre-Forward,33,left,VfL Bochum,2024-06-30,2022-07-01,ROOF,
+512,Simon Zoller,Simon Martin Zoller,31,1.79,Germany,Friedrichshafen,1.1,3.0,Attack - Centre-Forward,9,right,VfL Bochum,2024-06-30,2019-01-01,GoalSky,Puma
+513,Silvère Ganvoula,Silvère Ganvoula M'boussy,26,1.91,Congo,Brazzaville,0.75,2.5,Attack - Centre-Forward,35,right,VfL Bochum,2023-06-30,2019-07-05,BY Sport Consulting,Puma
+514,Moritz Broschinski,,22,1.9,Germany,Finsterwalde,0.5,0.5,Attack - Centre-Forward,29,right,VfL Bochum,2026-06-30,2023-01-22,Teamgeist ...,
