@@ -15,11 +15,13 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 **File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analysis_Portfolio/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
 
 ## SQL
+These are projects using SQL to showcase skills gained while learning data analysis.
 
 ### XYZ
 **Code:**
 
 ## Python
+These are projects using Python to showcase skills gained while learning data analysis.
 
 ### Mean Variance Deviation Calculator
 **Code:** [`Mean_Variance_Deviation_Calculator.py`](https://github.com/blackcrowX/Data_Analysis_Portfolio/blob/main/Python/Mean_Variance_Deviation_Calculator.py)
@@ -28,6 +30,7 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 **Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Portfolio/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
 
 ## R
+These are projects using R to showcase skills gained while learning data analysis.
 
 ### XYZ
 **Code:**
