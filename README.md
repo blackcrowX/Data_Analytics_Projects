@@ -21,11 +21,11 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 
 ## Python
 
+### Mean Variance Deviation Calculator
+**Code:** [`Mean_Variance_Deviation_Calculator.py`](https://github.com/blackcrowX/Data_Analysis_Portfolio/blob/main/Python/Mean_Variance_Deviation_Calculator.py)
+
 ### Exploratory Data Analysis - Pokemon Generation 1-8
 **Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Portfolio/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
-
-### XYZ
-**Code:**
 
 ## R
 
