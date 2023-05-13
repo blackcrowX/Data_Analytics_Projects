@@ -1,7 +1,7 @@
 <h1 align="center">Excel Projects</h1>
 
 <p align="center">
-  <img width="273px" src="https://raw.githubusercontent.com/blackcrowX/blackcrowX.github.io/main/images/icons/ms-excel.png"/>
+  <img width="273px" src="https://raw.githubusercontent.com/blackcrowX/blackcrowX.github.io/main/images/icons/ms_excel.png"/>
 </p>
 
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
