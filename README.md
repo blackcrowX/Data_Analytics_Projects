@@ -23,8 +23,8 @@ These are projects using SQL to showcase skills gained while learning data analy
 ## Python
 These are projects using Python to showcase skills gained while learning data analysis.
 
-### Mean Variance Deviation Calculator
-**Folder:** [`Mean_Variance_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Mean_Variance_Deviation_Calculator/README.md)
+### Mean Variance Standard Deviation Calculator
+**Folder:** [`Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator/README.md)
 
 ### Exploratory Data Analysis - Pokemon Generation 1-8
 **Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
