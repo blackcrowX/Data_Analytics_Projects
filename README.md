@@ -34,3 +34,15 @@ These are projects using R to showcase skills gained while learning data analysi
 
 ### XYZ
 **Code:**
+
+## Power-BI
+These are projects using Power-BI to showcase skills gained while learning data analysis.
+
+### XYZ
+**Code:**
+
+## Tableau
+These are projects using Tableau to showcase skills gained while learning data analysis.
+
+### XYZ
+**Code:**
