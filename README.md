@@ -35,6 +35,15 @@ These are projects using Python to showcase skills gained while learning data an
 ### Demographic Data Analyser
 **Folder:** [`Demographic_Data_Analyser`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Demographic_Data_Analyser/README.md)
 
+### Medical Data Visualiser
+**Folder:** [`Medical_Data_Visualiser`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Medical_Data_Visualiser/README.md)
+
+### Page View Time Series Visualiser
+**Folder:** [`Page_View_Time_Series_Visualiser`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Page_View_Time_Series_Visualiser/README.md)
+
+### Sea Level Predictor
+**Folder:** [`Sea_Level_Predictor`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Sea_Level_Predictor/README.md)
+
 ### Exploratory Data Analysis - Pokemon Generation 1-8
 **Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
 
