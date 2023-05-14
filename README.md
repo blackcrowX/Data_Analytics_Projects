@@ -43,6 +43,7 @@ These are projects using Python to showcase skills gained while learning data an
 
 ### Sea Level Predictor
 **Folder:** [`Sea_Level_Predictor`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Sea_Level_Predictor/README.md)
+**Code:** [`Sea_Level_Predictor.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Sea_Level_Predictor.ipynb)
 
 ### Exploratory Data Analysis - Pokemon Generation 1-8
 **Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
