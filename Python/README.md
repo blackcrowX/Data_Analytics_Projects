@@ -13,7 +13,7 @@ These are projects using Python to showcase skills gained while learning data an
 **Code:** [`Analysis_Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Analysis_Demographic_Data.ipynb)
 
 ### Calculation - Mean Variance Standard Deviation
-**Folder:** [`Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator)
+**Folder:** [`Python/Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator)
 
 ### Extraction - Amazon Web Scraper
 **Code:** [`Extraction_Amazon_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Extraction_Amazon_Web_Scraper.ipynb)
