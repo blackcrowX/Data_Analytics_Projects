@@ -23,8 +23,7 @@ These are projects using SQL to showcase skills gained while learning data analy
 ### XYZ
 **Code:**
 
-### XYZ
-**Code:**
+------------------------------------
 
 ## Python
 These are projects using Python to showcase skills gained while learning data analysis.
@@ -52,9 +51,6 @@ These are projects using Python to showcase skills gained while learning data an
 
 ## R
 These are projects using R to showcase skills gained while learning data analysis.
-
-### XYZ
-**Code:**
 
 ### XYZ
 **Code:**
