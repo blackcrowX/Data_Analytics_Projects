@@ -1,8 +1,7 @@
-<h1 align="center"> Data Analysis Projects</h1>
-
-<p align="center">
+<div align="center">
+<h1>Data Analysis Projects</h1>
 <img src="https://i.postimg.cc/K8mbkyhz/Logo-Black.png"/>
-</p>
+</div>
 
 ## Excel
 
