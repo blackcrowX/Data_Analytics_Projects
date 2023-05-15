@@ -23,8 +23,6 @@ These are projects using SQL to showcase skills gained while learning data analy
 ### XYZ
 **Code:**
 
-------------------------------------
-
 ## Python
 These are projects using Python to showcase skills gained while learning data analysis.
 
