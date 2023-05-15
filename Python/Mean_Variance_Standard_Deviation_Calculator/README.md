@@ -31,3 +31,6 @@ For example, `calculate([0,1,2,3,4,5,6,7,8])` should return:
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
 ```
+The unit tests for this project are in test_module.py.
+
+For development, we will use `main.py` to test our `calculate()` function. Click the "run" button and `main.py` will run.
