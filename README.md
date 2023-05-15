@@ -29,25 +29,25 @@ These are projects using SQL to showcase skills gained while learning data analy
 ## Python
 These are projects using Python to showcase skills gained while learning data analysis.
 
-### Mean Variance Standard Deviation Calculator
+### Calculation - Mean Variance Standard Deviation
 **Folder:** [`Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator/README.md)
 
-### Demographic Data Analyser
+### Analysis - Demographic Data Analyser
 **Folder:** [`Demographic_Data_Analyser`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Demographic_Data_Analyser/README.md)
 
-### Medical Data Visualiser
+### Visualisation - Medical Data
 **Folder:** [`Medical_Data_Visualiser`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Medical_Data_Visualiser/README.md)
 
-### Page View Time Series Visualiser
+### Visualisation - Page View Time Series
 **Folder:** [`Page_View_Time_Series_Visualiser`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Page_View_Time_Series_Visualiser/README.md)
 
-### Sea Level Predictor
+### Prediction - Sea Level
 **Folder:** [`Sea_Level_Predictor`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Sea_Level_Predictor/README.md)
 
 **Code:** [`Sea_Level_Predictor.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Sea_Level_Predictor.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Sea_Level_Predictor.ipynb)
 
-### Exploratory Data Analysis - Pokemon Generation 1-8
+### Analysis - Pokemon Generation 1-8
 **Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
 
 ### XYZ
