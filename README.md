@@ -51,9 +51,6 @@ These are projects using Python to showcase skills gained while learning data an
 ### Visualisation - Page View Time Series
 **Code:** [`Visualisation_Page_View_Time_Series.ipynb`](https://github.com/blackcrowX/Data_Analysis_Projects/blob/main/Python/Visualisation_Page_View_Time_Series.ipynb)
 
-### XYZ
-**Code:**
-
 ## R
 These are projects using R to showcase skills gained while learning data analysis.
 
