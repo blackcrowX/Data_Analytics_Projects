@@ -14,7 +14,7 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 
 ## Sales Dashboard USA 2015-2018
 
-<img src="https://i.postimg.cc/NMGH27Dm/Screenshot-2.jpg"/>
+<img src="https://i.postimg.cc/c4D8g55m/Screenshot-4.jpg"/>
 
 **File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
 
