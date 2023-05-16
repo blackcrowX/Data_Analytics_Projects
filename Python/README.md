@@ -6,9 +6,6 @@
 
 These are projects using Python to showcase skills gained while learning data analysis.
 
-### Analysis - Pokemon Generation 1-8
-**Code:** [`Analysis_Pokemon_Gen_1-8.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Analysis_Pokemon_Gen_1-8.ipynb)
-
 ### Analysis - Demographic Data Analyser
 **Code:** [`Analysis_Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Analysis_Demographic_Data.ipynb)
 
