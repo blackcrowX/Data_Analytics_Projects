@@ -7,10 +7,14 @@
 
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
 
-### Dashboard - Sales South America 2022
+### Sales Performance South America 2022
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
 
-### Dashboard - Customer Sucess North Germany 2022
+### Sales Performance USA 2015-2018
+
+**File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
+
+### Customer Sucess North Germany 2022
 **File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
 
 ## SQL
@@ -28,6 +32,9 @@ These are projects using Python to showcase skills gained while learning data an
 
 ### Analysis - Demographic Data Analyser
 **Code:** [`Analysis_Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Analysis_Demographic_Data.ipynb)
+
+### Analysis - Popular 10000 Movies TMDB
+**Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
 
 ### Calculation - Mean Variance Standard Deviation
 **Folder:** [`Python/Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator)

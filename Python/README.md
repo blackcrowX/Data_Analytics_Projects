@@ -9,6 +9,9 @@ These are projects using Python to showcase skills gained while learning data an
 ### Analysis - Demographic Data Analyser
 **Code:** [`Analysis_Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Analysis_Demographic_Data.ipynb)
 
+### Analysis - Popular 10000 Movies TMDB
+**Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
+
 ### Calculation - Mean Variance Standard Deviation
 **Folder:** [`Python/Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator)
 

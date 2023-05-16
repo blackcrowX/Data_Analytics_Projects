@@ -6,14 +6,20 @@
 
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
 
-## Sales Dashboard South America
+## Sales Dashboard South America 2022
 
-<img src="https://i.postimg.cc/R0W5KsVz/Screenshot-1.jpg"/>
+<img src="https://i.postimg.cc/fT1mqdWQ/Screenshot-1.jpg"/>
 
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
 
-## Customersucess Dashboard North Germany
+## Sales Dashboard USA 2015-2018
 
-<img src="https://i.postimg.cc/28Q5r9Z2/Screenshot-2.jpg"/>
+<img src="https://i.postimg.cc/c4D8g55m/Screenshot-4.jpg"/>
+
+**File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
+
+## Customersucess Dashboard North Germany 2020-2022
+
+<img src="https://i.postimg.cc/x1fD760W/Screenshot-5.jpg"/>
 
 **File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
