@@ -20,6 +20,6 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 
 ## Customersucess Dashboard North Germany 2020-2022
 
-<img src="https://i.postimg.cc/JhMySc9v/Screenshot-3.jpg"/>
+<img src="https://i.postimg.cc/x1fD760W/Screenshot-5.jpg"/>
 
 **File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
