@@ -8,7 +8,7 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 
 ## Sales Dashboard South America
 
-<img src="https://i.postimg.cc/9WvYnrcV/Screenshot-1.jpg"/>
+<img src="https://i.postimg.cc/85fKPxkj/Screenshot-1.jpg"/>
 
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
 
