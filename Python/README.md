@@ -16,7 +16,7 @@ These are projects using Python to showcase skills gained while learning data an
 **Code:** [`Extraction_Amazon_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_Amazon_Web_Scraper.ipynb)
 
 ### Extraction - Automate API Data
-**Code:** 
+**Code:** [`Extraction_Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_Automate_API_Data.ipynb)
 
 ### Prediction - Sea Level
 **Code:** [`Prediction_Sea_Level.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Prediction_Sea_Level.ipynb)
