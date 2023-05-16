@@ -16,6 +16,7 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 
 <img src="https://i.postimg.cc/NMGH27Dm/Screenshot-2.jpg"/>
 
+
 **File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
 
 ## Customersucess Dashboard North Germany 2020-2022
