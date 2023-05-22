@@ -39,8 +39,8 @@ These are projects using Python to showcase skills gained while learning data an
 ### Calculation - Mean Variance Standard Deviation
 **Folder:** [`Python/Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator)
 
-### XX Extraction - Amazon Web Scraper
-**Code:** [`Extraction_Amazon_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_Amazon_Web_Scraper.ipynb)
+### Extraction - EngelVoelkers Web Scraper
+**Code:** [`Extraction_EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_EngelVoelkers_Web_Scraper.ipynb)
 
 ### XX Extraction - Automate API Data
 **Code:** [`Extraction_Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_Automate_API_Data.ipynb)
