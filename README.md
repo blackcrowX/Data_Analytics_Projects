@@ -30,29 +30,29 @@ These are projects using SQL to showcase skills gained while learning data analy
 
 These are projects using Python to showcase skills gained while learning data analysis.
 
+### XX Automate API Data
+**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
+
 ### Demographic Data Analyser
 **Code:** [`Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Demographic_Data.ipynb)
-
-### Popular 10000 Movies TMDB
-**Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
-
-### Mean Variance Standard Deviation
-**Folder:** [`Mean_Variance_Standard_Deviation`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation)
 
 ### EngelVoelkers Web Scraper
 **Code:** [`EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/EngelVoelkers_Web_Scraper.ipynb)
 
-### XX Automate API Data
-**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
-
-### Sea Level
-**Code:** [`Sea_Level.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Sea_Level.ipynb)
-
 ### Medical Data
 **Code:** [`Medical_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Medical_Data.ipynb)
 
+### Mean Variance Standard Deviation
+**Folder:** [`Mean_Variance_Standard_Deviation`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation)
+
 ### Page View Time Series
 **Code:** [`Page_View_Time_Series.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Page_View_Time_Series.ipynb)
+
+### Popular 10000 Movies TMDB
+**Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
+
+### Sea Level
+**Code:** [`Sea_Level.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Sea_Level.ipynb)
 
 ## R
 These are projects using R to showcase skills gained while learning data analysis.
