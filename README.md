@@ -7,21 +7,21 @@
 
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
 
-### Visualisation - Sales Performance South America 2022
+### Sales Performance South America 2022
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
 
-### Visualisation - Sales Performance USA 2015-2018
+### Sales Performance USA 2015-2018
 
 **File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
 
-### Visualisation - Customer Sucess North Germany 2022
+### Customer Sucess North Germany 2022
 **File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
 
 ## SQL
 These are projects using SQL to showcase skills gained while learning data analysis.
 
-### XX Cleaning - Nashville Housing
-**Code:** [`Cleaning_Nashville_Housing.sql`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/SQL/Cleaning_Nashville_Housing.sql)
+### XX Nashville Housing
+**Code:** [`Nashville_Housing.sql`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/SQL/Nashville_Housing.sql)
 
 ### XYZ
 **Code:**
@@ -30,35 +30,35 @@ These are projects using SQL to showcase skills gained while learning data analy
 
 These are projects using Python to showcase skills gained while learning data analysis.
 
-### Analysis - Demographic Data Analyser
-**Code:** [`Analysis_Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Analysis_Demographic_Data.ipynb)
+### Demographic Data Analyser
+**Code:** [`Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Demographic_Data.ipynb)
 
-### Analysis - Popular 10000 Movies TMDB
+### Popular 10000 Movies TMDB
 **Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
 
-### Calculation - Mean Variance Standard Deviation
-**Folder:** [`Python/Mean_Variance_Standard_Deviation_Calculator`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation_Calculator)
+### Mean Variance Standard Deviation
+**Folder:** [`Mean_Variance_Standard_Deviation`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation)
 
-### Extraction - EngelVoelkers Web Scraper
-**Code:** [`Extraction_EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_EngelVoelkers_Web_Scraper.ipynb)
+### EngelVoelkers Web Scraper
+**Code:** [`EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/EngelVoelkers_Web_Scraper.ipynb)
 
-### XX Extraction - Automate API Data
-**Code:** [`Extraction_Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Extraction_Automate_API_Data.ipynb)
+### XX Automate API Data
+**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
 
-### Prediction - Sea Level
-**Code:** [`Prediction_Sea_Level.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Prediction_Sea_Level.ipynb)
+### Sea Level
+**Code:** [`Sea_Level.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Sea_Level.ipynb)
 
-### Visualisation - Medical Data
-**Code:** [`Visualisation_Medical_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Visualisation_Medical_Data.ipynb)
+### Medical Data
+**Code:** [`Medical_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Medical_Data.ipynb)
 
-### Visualisation - Page View Time Series
-**Code:** [`Visualisation_Page_View_Time_Series.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Visualisation_Page_View_Time_Series.ipynb)
+### Page View Time Series
+**Code:** [`Page_View_Time_Series.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Page_View_Time_Series.ipynb)
 
 ## R
 These are projects using R to showcase skills gained while learning data analysis.
 
-### XX Analysis - Legendary Pokemon
-**Code:** [`Analysis_Legendary_Pokemon.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/R/Analysis_Legendary_Pokemon.ipynb)
+### XX Legendary Pokemon
+**Code:** [`Legendary_Pokemon.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/R/Legendary_Pokemon.ipynb)
 
 ### XYZ
 **Code:**
