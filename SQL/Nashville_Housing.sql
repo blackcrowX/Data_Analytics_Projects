@@ -1,50 +1,30 @@
-/*
+-- Cleaning Data in SQL Queries
 
-Cleaning Data in SQL Queries
-
-*/
-
-
-Select *
-From PortfolioProject.dbo.NashvilleHousing
-
---------------------------------------------------------------------------------------------------------------------------
-
--- Standardize Date Format
+SELECT *
+FROM nashville_housing;
 
 
-Select saleDateConverted, CONVERT(Date,SaleDate)
-From PortfolioProject.dbo.NashvilleHousing
+-- Standardise Date Format
 
-
-Update NashvilleHousing
-SET SaleDate = CONVERT(Date,SaleDate)
-
--- If it doesn't Update properly
-
-ALTER TABLE NashvilleHousing
-Add SaleDateConverted Date;
-
-Update NashvilleHousing
-SET SaleDateConverted = CONVERT(Date,SaleDate)
-
-
- --------------------------------------------------------------------------------------------------------------------------
+UPDATE nashville_housing
+SET SaleDate = CAST(saledate AS date);
 
 -- Populate Property Address data
 
-Select *
-From PortfolioProject.dbo.NashvilleHousing
---Where PropertyAddress is null
-order by ParcelID
+SELECT *
+FROM nashville_housing
+WHERE PropertyAddress IS null
+ORDER BY ParcelID
+-----------------------------
+UPDATE nashville_housing
+SET propertyaddress = CAST(propertyaddress AS text);
 
 
-
-Select a.ParcelID, a.PropertyAddress, b.ParcelID, b.PropertyAddress, ISNULL(a.PropertyAddress,b.PropertyAddress)
-From PortfolioProject.dbo.NashvilleHousing a
-JOIN PortfolioProject.dbo.NashvilleHousing b
+SELECT a.ParcelID, a.PropertyAddress, b.ParcelID, b.PropertyAddress, ISNULL(a.PropertyAddress,b.PropertyAddress)
+From nashville_housing a
+JOIN nashville_housing b
 	on a.ParcelID = b.ParcelID
-	AND a.[UniqueID ] <> b.[UniqueID ]
+	AND a.UniqueID <> b.UniqueID
 Where a.PropertyAddress is null
 
 
@@ -55,11 +35,6 @@ JOIN PortfolioProject.dbo.NashvilleHousing b
 	on a.ParcelID = b.ParcelID
 	AND a.[UniqueID ] <> b.[UniqueID ]
 Where a.PropertyAddress is null
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------
 
 -- Breaking out Address into Individual Columns (Address, City, State)
 
@@ -196,18 +171,13 @@ Order by PropertyAddress
 Select *
 From PortfolioProject.dbo.NashvilleHousing
 
-
----------------------------------------------------------------------------------------------------------
-
 -- Delete Unused Columns
 
+SELECT *
+FROM nashville_housing
 
 
-Select *
-From PortfolioProject.dbo.NashvilleHousing
-
-
-ALTER TABLE PortfolioProject.dbo.NashvilleHousing
+ALTER TABLE nashville_housing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
 
