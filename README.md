@@ -5,9 +5,6 @@
 
 ## Pending
 
-### XX Automate API Data
-**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
-
 ### XX Legendary Pokemon
 **Code:** [`Legendary_Pokemon.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/R/Legendary_Pokemon.ipynb)
 
@@ -34,6 +31,9 @@ These are projects using SQL to showcase skills gained while learning data analy
 ## Python
 
 These are projects using Python to showcase skills gained while learning data analysis.
+
+### Automate API Data
+**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
 
 ### Demographic Data Analyser
 **Code:** [`Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Demographic_Data.ipynb)
