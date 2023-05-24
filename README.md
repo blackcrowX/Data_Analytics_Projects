@@ -3,6 +3,14 @@
 <img src="https://i.postimg.cc/K8mbkyhz/Logo-Black.png"/>
 </div>
 
+## Pending
+
+### XX Automate API Data
+**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
+
+### XX Legendary Pokemon
+**Code:** [`Legendary_Pokemon.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/R/Legendary_Pokemon.ipynb)
+
 ## Excel
 
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
@@ -30,9 +38,6 @@ These are projects using SQL to showcase skills gained while learning data analy
 
 These are projects using Python to showcase skills gained while learning data analysis.
 
-### XX Automate API Data
-**Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
-
 ### Demographic Data Analyser
 **Code:** [`Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Demographic_Data.ipynb)
 
@@ -57,9 +62,6 @@ These are projects using Python to showcase skills gained while learning data an
 ## R
 These are projects using R to showcase skills gained while learning data analysis.
 
-### XX Legendary Pokemon
-**Code:** [`Legendary_Pokemon.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/R/Legendary_Pokemon.ipynb)
-
 ### XYZ
 **Code:**
 
@@ -69,14 +71,8 @@ These are projects using Power-BI to showcase skills gained while learning data 
 ### XYZ
 **Code:**
 
-### XYZ
-**Code:**
-
 ## Tableau
 These are projects using Tableau to showcase skills gained while learning data analysis.
 
 ### Bundesliga Players
 **Code:** [Bundesyliga_Players.twb](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Tableau/Bundesliga_Players.twb)
-
-### XYZ
-**Code:**
