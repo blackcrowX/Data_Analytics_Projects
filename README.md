@@ -20,7 +20,7 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 ## SQL
 These are projects using SQL to showcase skills gained while learning data analysis.
 
-### XX Nashville Housing
+### Nashville Housing
 **Code:** [`Nashville_Housing.sql`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/SQL/Nashville_Housing.sql)
 
 ### XYZ
