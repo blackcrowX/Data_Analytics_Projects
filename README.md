@@ -1,7 +1,16 @@
 <div align="center">
-<h1>Data Analytics Projects</h1>
-<img src="https://i.postimg.cc/K8mbkyhz/Logo-Black.png"/>
+  <h1>Data Analytics Projects</h1>
+  <img src="https://raw.githubusercontent.com/blackcrowX/blackcrowX.github.io/main/images/background_hongkong_black_blur_logo_header.png"/>
 </div>
+
+## Table of Contents
+- [Excel](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#Excel)
+- [SQL](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#SQL)
+- [Python](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#Python)
+- [R](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#R)
+- [Power-BI](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#Power-BI)
+- [Tableau](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#Tableau)
+
 
 ## Pending
 
