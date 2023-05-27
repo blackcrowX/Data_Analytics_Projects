@@ -42,7 +42,7 @@ These are projects using Python to showcase skills gained while learning data an
 ### Automate API Data
 **Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
 
-### Demographic Data Analyser
+### Demographic Data
 **Code:** [`Demographic_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Demographic_Data.ipynb)
 
 ### EngelVoelkers Web Scraper
