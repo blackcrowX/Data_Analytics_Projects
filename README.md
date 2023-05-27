@@ -37,7 +37,7 @@ These are projects using SQL to showcase skills gained while learning data analy
 ### Nashville Housing
 **Code:** [`Nashville_Housing.sql`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/SQL/Nashville_Housing.sql)
 
-### Berlin Airbnb Listings 
+### Airbnb Berlin Listings 
 **Code:** 
 
 ## Python
