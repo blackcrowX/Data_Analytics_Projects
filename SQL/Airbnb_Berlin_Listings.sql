@@ -1,5 +1,5 @@
-DROP TABLE IF EXISTS airbnb_berlin_listings;
-CREATE TABLE airbnb_berlin_listings(
+DROP TABLE IF EXISTS Airbnb_berlin_listings;
+CREATE TABLE Airbnb_berlin_listings(
 	id NUMERIC,
 	name VARCHAR(255),
 	host_id NUMERIC,
