@@ -46,7 +46,7 @@ These are projects using Python to showcase skills gained while learning data an
 **Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
 
 ### XX - Crime
-**Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
+**Code:** [`crime.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/crime.ipynb)
 
 ### EngelVoelkers Web Scraper
 **Code:** [`EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/EngelVoelkers_Web_Scraper.ipynb)
