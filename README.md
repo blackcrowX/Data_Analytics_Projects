@@ -45,9 +45,6 @@ These are projects using Python to showcase skills gained while learning data an
 ### EngelVoelkers Web Scraper
 **Code:** [`EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/EngelVoelkers_Web_Scraper.ipynb)
 
-### Mean Variance Standard Deviation
-**Folder:** [`Mean_Variance_Standard_Deviation`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Mean_Variance_Standard_Deviation)
-
 ### Popular 10000 Movies TMDB
 **Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
 
