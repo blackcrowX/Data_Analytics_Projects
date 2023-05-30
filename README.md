@@ -40,6 +40,9 @@ These are projects using SQL to showcase skills gained while learning data analy
 These are projects using Python to showcase skills gained while learning data analysis.
 
 ### Automate API Data
+**Directory:** [`freeCodeCamp`](https://github.com/blackcrowX/Data_Analytics_Projects/Python/blob/main/freeCodeCamp)
+
+### Automate API Data
 **Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
 
 ### EngelVoelkers Web Scraper
