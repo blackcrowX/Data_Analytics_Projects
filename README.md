@@ -51,7 +51,7 @@ These are projects using Python to showcase skills gained while learning data an
 ### EngelVoelkers Web Scraper
 **Code:** [`EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/EngelVoelkers_Web_Scraper.ipynb)
 
-## XX - Health Insurance
+### XX - Health Insurance
 **Code:** [`Health_Insurance.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Health_Insurance.ipynb)
 
 ### Popular 10000 Movies TMDB
