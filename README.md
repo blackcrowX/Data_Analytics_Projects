@@ -4,8 +4,8 @@
 </div>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/blackcrowX/Data_Analytics_Projects/)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://github.com/blackcrowX)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/blackcrowX/Data_Analytics_Projects/commit/master)
+[![Author](https://img.shields.io/badge/Author-blackcrowX-blue.svg)](https://github.com/blackcrowX)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-31%20May%202023-yellow.svg)](https://github.com/blackcrowX/Data_Analytics_Projects/commit/master)
 
 ## Table of Contents
 - [Excel](https://github.com/blackcrowX/Data_Analytics_Portfolio/blob/main/README.md#Excel)
