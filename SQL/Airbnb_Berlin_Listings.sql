@@ -1,3 +1,5 @@
+-- Airbnb Berlin Listings
+
 DROP TABLE IF EXISTS Airbnb_Berlin_Listings;
 CREATE TABLE Airbnb_Berlin_Listings(
 	id NUMERIC,
