@@ -20,7 +20,7 @@ CREATE TABLE Airbnb_Berlin_Listings(
 	availability_365 NUMERIC,
 	number_of_reviews_ltm NUMERIC,
 	license TEXT
-)
+);
 
 -- Window Functions with OVER
 
