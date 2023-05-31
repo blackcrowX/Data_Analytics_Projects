@@ -20,53 +20,75 @@
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
 
 ### Sales Performance South America 2022
+
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
+
 **Process:** Data Visualisation
 
 ### Sales Performance USA 2015-2018
+
 **File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
+
 **Process:** Data Visualisation and Data Exploration
 
 ### Customerfulfillment North Germany 2022
+
 **File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
+
 **Process:** Data Visualisation and Data Exploration
 
 ## SQL
 These are projects using SQL to showcase skills gained while learning data analysis.
 
 ### Airbnb Berlin Listings 
+
 **Code:** [`Airbnb_Berlin_Listings.sql`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/SQL/Airbnb_Berlin_Listings.sql)
+
 **Process:** Data Exploration
 
 ### Nashville Housing
+
 **Code:** [`Nashville_Housing.sql`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/SQL/Nashville_Housing.sql)
+
 **Process:** Data Cleaning
 
 ## Python
 These are projects using Python to showcase skills gained while learning data analysis.
 
 ### freeCodeCamp Projects
+
 **Directory:** [`freeCodeCamp`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/freeCodeCamp)
+
 **Process:** Data Visualisation and Data Analysis
 
 ### Automate API Data
+
 **Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
+
 **Process:** Data Loading
 
 ### Crime
+
 **Code:** [`crime.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/crime.ipynb)
+
 **Process:** Data Exploration
 
 ### EngelVoelkers Web Scraper
+
 **Code:** [`EngelVoelkers_Web_Scraper.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/EngelVoelkers_Web_Scraper.ipynb)
+
 **Process:** Data Preparation
 
 ### XX - Health Insurance
+
 **Code:** [`Health_Insurance.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Health_Insurance.ipynb)
+
 **Process:** Data Exploration
 
 ### Popular 10000 Movies TMDB
+
 **Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
+
 **Process:** Data Exploration
 
 
@@ -74,7 +96,9 @@ These are projects using Python to showcase skills gained while learning data an
 These are projects using R to showcase skills gained while learning data analysis.
 
 ### XX - Legendary Pokemon
+
 **Code:** [`Legendary_Pokemon.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/R/Legendary_Pokemon.ipynb)
+
 **Process:** Data Exploration
 
 
@@ -82,12 +106,16 @@ These are projects using R to showcase skills gained while learning data analysi
 These are projects using Power-BI to showcase skills gained while learning data analysis.
 
 ### XYZ
+
 **Code:**
 
+**Process:**
 
 ## Tableau
 These are projects using Tableau to showcase skills gained while learning data analysis.
 
 ### Bundesliga Players
+
 **Code:** [Bundesyliga_Players.twb](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Tableau/Bundesliga_Players.twb)
+
 **Process:** Data Visualisation
