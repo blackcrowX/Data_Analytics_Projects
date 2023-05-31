@@ -48,7 +48,7 @@ These are projects using Python to showcase skills gained while learning data an
 ### Automate API Data
 **Code:** [`Automate_API_Data.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Automate_API_Data.ipynb)
 
-### XX - Crime
+### Crime
 **Code:** [`crime.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/crime.ipynb)
 
 ### EngelVoelkers Web Scraper
