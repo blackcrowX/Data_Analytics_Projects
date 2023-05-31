@@ -19,6 +19,12 @@
 ## Excel
 These are projects using Microsoft Excel to showcase skills gained while learning data analysis.
 
+### Customerfulfillment North Germany 2022
+
+**File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
+
+**Process:** Data Visualisation and Data Exploration
+
 ### Sales Performance South America 2022
 
 **File:** [`Dashboard_Sales_SouthAmerica_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_SouthAmerica_2022.xlsx)
@@ -28,12 +34,6 @@ These are projects using Microsoft Excel to showcase skills gained while learnin
 ### Sales Performance USA 2015-2018
 
 **File:** [`Dashboard_Sales_USA_2015-2018.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Sales_USA_2015-2018.xlsx)
-
-**Process:** Data Visualisation and Data Exploration
-
-### Customerfulfillment North Germany 2022
-
-**File:** [`Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Excel/Dashboard_Kundenerfolg_Norddeutschland_2022.xlsx)
 
 **Process:** Data Visualisation and Data Exploration
 
@@ -54,12 +54,6 @@ These are projects using SQL to showcase skills gained while learning data analy
 
 ## Python
 These are projects using Python to showcase skills gained while learning data analysis.
-
-### freeCodeCamp Projects
-
-**Directory:** [`freeCodeCamp`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/freeCodeCamp)
-
-**Process:** Data Visualisation and Data Analysis
 
 ### Automate API Data
 
@@ -90,6 +84,12 @@ These are projects using Python to showcase skills gained while learning data an
 **Code:** [`Popular_10000_Movies_TMDB.ipynb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/Popular_10000_Movies_TMDB.ipynb)
 
 **Process:** Data Exploration
+
+### freeCodeCamp Projects
+
+**Directory:** [`freeCodeCamp`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Python/freeCodeCamp)
+
+**Process:** Data Visualisation and Data Analysis
 
 
 ## R
