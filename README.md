@@ -107,15 +107,15 @@ These are projects using Power-BI to showcase skills gained while learning data 
 
 ### XYZ
 
-**Code:**
+**Code:** [`xyz`](https://github.com/blackcrowX/)
 
-**Process:**
+**Process:** xyz
 
 ## Tableau
 These are projects using Tableau to showcase skills gained while learning data analysis.
 
 ### Bundesliga Players
 
-**Code:** [Bundesyliga_Players.twb](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Tableau/Bundesliga_Players.twb)
+**Code:** [`Bundesyliga_Players.twb`](https://github.com/blackcrowX/Data_Analytics_Projects/blob/main/Tableau/Bundesliga_Players.twb)
 
 **Process:** Data Visualisation
